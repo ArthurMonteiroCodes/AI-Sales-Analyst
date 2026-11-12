@@ -1,0 +1,1001 @@
+﻿id_venda;data_venda;produto;categoria;quantidade;preco_unitario;desconto;valor_total;cliente;estado
+22;01/01/2025;Luminária de mesa;Casa;1;103,66;0,15;88,11;CLI0158;GO
+433;01/01/2025;Monitor 24 polegadas;Eletrônicos;1;850,77;0,0;850,77;CLI0005;SC
+504;01/01/2025;Notebook;Eletrônicos;1;3289,31;0,2;2631,45;CLI0253;GO
+691;01/01/2025;Teclado mecânico;Eletrônicos;1;233,55;0,0;233,55;CLI0208;SC
+968;01/01/2025;Camiseta;Vestuário;2;59,07;0,1;106,33;CLI0152;MG
+32;01/02/2025;Mesa para escritório;Móveis;2;673,45;0,0;1346,9;CLI0275;SP
+38;01/02/2025;Carteira;Acessórios;1;61,49;0,05;58,42;CLI0272;ES
+178;01/02/2025;Garrafa térmica;Casa;3;74,34;0,0;223,02;CLI0228;RS
+213;01/02/2025;Garrafa térmica;Casa;1;78,59;0,0;78,59;CLI0259;RS
+920;01/02/2025;Mesa para escritório;Móveis;1;688,68;0,0;688,68;CLI0092;BA
+60;01/03/2025;Jaqueta;Vestuário;5;269,2;0,2;1076,8;CLI0056;SP
+451;01/03/2025;Garrafa térmica;Casa;2;71,0;0,1;127,8;CLI0090;SC
+96;01/04/2025;Carteira;Acessórios;2;66,17;0,05;125,72;CLI0248;ES
+490;01/04/2025;Monitor 24 polegadas;Eletrônicos;2;922,7;0,1;1660,86;CLI0015;ES
+499;01/04/2025;Carteira;Acessórios;1;66,58;0,05;63,25;CLI0291;GO
+40;01/05/2025;Mesa para escritório;Móveis;1;680,44;0,0;680,44;CLI0318;PR
+165;01/05/2025;Jaqueta;Vestuário;2;276,26;0,0;552,52;CLI0277;ES
+168;01/05/2025;Camiseta;Vestuário;1;63,36;0,0;63,36;CLI0331;GO
+255;01/05/2025;Tênis casual;Vestuário;2;216,36;0,15;367,81;CLI0079;SP
+519;01/05/2025;Garrafa térmica;Casa;1;74,05;0,15;62,94;CLI0293;SP
+107;01/06/2025;Monitor 24 polegadas;Eletrônicos;1;868,88;0,1;781,99;CLI0024;SP
+314;01/06/2025;Luminária de mesa;Casa;2;105,95;0,05;201,31;CLI0208;SC
+639;01/06/2025;Mochila;Acessórios;1;163,4;0,15;138,89;CLI0332;BA
+851;01/07/2025;Mouse sem fio;Eletrônicos;5;82,76;0,0;413,8;CLI0321;PE
+132;01/08/2025;Camiseta;Vestuário;2;59,7;0,05;113,43;CLI0098;SP
+769;01/08/2025;Carteira;Acessórios;1;66,08;0,0;66,08;CLI0341;MG
+176;01/09/2025;Garrafa térmica;Casa;3;75,12;0,0;225,36;CLI0315;MG
+852;01/10/2025;Camiseta;Vestuário;1;60,66;0,0;60,66;CLI0158;SP
+929;01/10/2025;Camiseta;Vestuário;5;56,88;0,05;270,18;CLI0332;RS
+372;01/11/2025;Mesa para escritório;Móveis;5;636,46;0,05;3023,18;CLI0231;BA
+818;01/11/2025;Jogo de panelas;Casa;2;334,43;0,1;601,97;CLI0232;MG
+723;01/12/2025;Fone Bluetooth;Eletrônicos;2;192,4;0,0;384,8;CLI0186;GO
+782;01/12/2025;Camiseta;Vestuário;2;56,39;0,1;101,5;CLI0157;RJ
+36;02/01/2025;Mesa para escritório;Móveis;1;672,16;0,05;638,55;CLI0285;MG
+512;02/01/2025;Mesa para escritório;Móveis;1;675,26;0,05;641,5;CLI0050;MG
+927;02/01/2025;Mesa para escritório;Móveis;4;674,8;0,05;2564,24;CLI0184;PR
+27;02/02/2025;Cadeira de escritório;Móveis;1;785,05;0,05;745,8;CLI0324;SP
+381;02/02/2025;Teclado mecânico;Eletrônicos;1;237,73;0,05;225,84;CLI0129;SP
+286;02/03/2025;Teclado mecânico;Eletrônicos;5;236,94;0,1;1066,23;CLI0188;RJ
+454;02/03/2025;Tênis casual;Vestuário;4;215,64;0,0;862,56;CLI0135;MG
+572;02/03/2025;Fone Bluetooth;Eletrônicos;1;181,02;0,0;181,02;CLI0135;SP
+635;02/03/2025;Jogo de panelas;Casa;1;328,46;0,0;328,46;CLI0024;RS
+664;02/03/2025;Mochila;Acessórios;1;165,97;0,1;149,37;CLI0246;MG
+679;02/03/2025;Jogo de panelas;Casa;1;325,93;0,1;293,34;CLI0186;RJ
+331;02/04/2025;Jogo de panelas;Casa;1;305,69;0,2;244,55;CLI0012;BA
+608;02/04/2025;Jogo de panelas;Casa;2;325,26;0,1;585,47;CLI0288;RS
+762;02/04/2025;Camiseta;Vestuário;1;57,08;0,0;57,08;CLI0329;SP
+944;02/04/2025;Jaqueta;Vestuário;1;285,1;0,15;242,34;CLI0244;RJ
+151;02/05/2025;Mesa para escritório;Móveis;2;655,84;0,2;1049,34;CLI0338;SP
+511;02/05/2025;Mouse sem fio;Eletrônicos;1;85,73;0,1;77,16;CLI0185;SP
+905;02/05/2025;Mochila;Acessórios;1;162,64;0,0;162,64;CLI0177;RS
+113;02/06/2025;Camiseta;Vestuário;2;59,39;0,05;112,84;CLI0051;SP
+275;02/06/2025;Garrafa térmica;Casa;1;71,04;0,0;71,04;CLI0105;MG
+332;02/06/2025;Garrafa térmica;Casa;2;75,4;0,05;143,26;CLI0127;BA
+112;02/08/2025;Luminária de mesa;Casa;2;111,56;0,1;200,81;CLI0227;RJ
+239;02/08/2025;Teclado mecânico;Eletrônicos;2;228,07;0,2;364,91;CLI0270;SP
+309;02/08/2025;Jaqueta;Vestuário;3;294,58;0,0;883,74;CLI0254;BA
+110;02/09/2025;Mouse sem fio;Eletrônicos;3;83,99;0,0;251,97;CLI0028;PR
+307;02/09/2025;Mochila;Acessórios;1;168,91;0,0;168,91;CLI0046;SC
+320;02/09/2025;Teclado mecânico;Eletrônicos;1;254,08;0,0;254,08;CLI0242;SC
+926;02/09/2025;Mesa para escritório;Móveis;1;667,77;0,1;600,99;CLI0116;SP
+283;02/10/2025;Notebook;Eletrônicos;3;3173,48;0,15;8092,37;CLI0207;RS
+360;02/10/2025;Fone Bluetooth;Eletrônicos;1;197,14;0,1;177,43;CLI0092;BA
+449;02/10/2025;Cadeira de escritório;Móveis;1;792,57;0,1;713,31;CLI0034;SC
+61;02/11/2025;Mesa para escritório;Móveis;1;672,34;0,0;672,34;CLI0060;PE
+564;02/11/2025;Jogo de panelas;Casa;1;334,9;0,2;267,92;CLI0251;RJ
+671;02/11/2025;Luminária de mesa;Casa;1;108,39;0,0;108,39;CLI0268;SP
+14;02/12/2025;Garrafa térmica;Casa;1;78,73;0,05;74,79;CLI0127;SP
+790;02/12/2025;Notebook;Eletrônicos;3;3072,99;0,0;9218,97;CLI0227;BA
+831;03/01/2025;Luminária de mesa;Casa;3;106,54;0,05;303,64;CLI0210;MG
+452;03/03/2025;Notebook;Eletrônicos;2;3277,38;0,0;6554,76;CLI0268;ES
+473;03/03/2025;Mouse sem fio;Eletrônicos;1;86,9;0,1;78,21;CLI0021;SC
+750;03/03/2025;Mesa para escritório;Móveis;3;611,7;0,0;1835,1;CLI0244;BA
+23;03/05/2025;Notebook;Eletrônicos;1;3225,87;0,0;3225,87;CLI0036;RS
+407;03/05/2025;Fone Bluetooth;Eletrônicos;1;187,11;0,0;187,11;CLI0306;RJ
+363;03/06/2025;Mochila;Acessórios;3;151,95;0,2;364,68;CLI0017;SC
+735;03/06/2025;Notebook;Eletrônicos;3;3314,42;0,05;9446,1;CLI0281;BA
+169;03/07/2025;Notebook;Eletrônicos;1;3080,89;0,0;3080,89;CLI0233;BA
+550;03/07/2025;Jogo de panelas;Casa;1;307,33;0,1;276,6;CLI0151;PR
+565;03/07/2025;Tênis casual;Vestuário;1;231,83;0,15;197,06;CLI0117;RJ
+613;03/07/2025;Camiseta;Vestuário;1;60,73;0,1;54,66;CLI0115;PR
+812;03/07/2025;Mouse sem fio;Eletrônicos;2;84,76;0,05;161,04;CLI0333;PR
+166;03/08/2025;Luminária de mesa;Casa;2;105,44;0,0;210,88;CLI0251;SP
+279;03/08/2025;Monitor 24 polegadas;Eletrônicos;5;932,97;0,1;4198,37;CLI0161;ES
+459;03/08/2025;Monitor 24 polegadas;Eletrônicos;1;881,06;0,1;792,95;CLI0040;SP
+265;03/09/2025;Jogo de panelas;Casa;1;316,52;0,05;300,69;CLI0163;SP
+609;03/09/2025;Luminária de mesa;Casa;2;112,21;0,0;224,42;CLI0274;RS
+649;03/09/2025;Garrafa térmica;Casa;1;77,47;0,05;73,6;CLI0331;SP
+665;03/09/2025;Monitor 24 polegadas;Eletrônicos;2;905,73;0,0;1811,46;CLI0066;SP
+992;03/09/2025;Jaqueta;Vestuário;1;285,98;0,0;285,98;CLI0317;SP
+82;03/10/2025;Carteira;Acessórios;2;67,34;0,15;114,48;CLI0140;MG
+321;03/10/2025;Tênis casual;Vestuário;2;212,57;0,0;425,14;CLI0042;RS
+413;03/10/2025;Fone Bluetooth;Eletrônicos;1;189,03;0,1;170,13;CLI0282;RS
+448;03/10/2025;Luminária de mesa;Casa;1;104,5;0,0;104,5;CLI0080;ES
+794;03/10/2025;Monitor 24 polegadas;Eletrônicos;1;892,48;0,0;892,48;CLI0073;MG
+952;03/10/2025;Teclado mecânico;Eletrônicos;1;226,44;0,05;215,12;CLI0121;SP
+133;03/11/2025;Jogo de panelas;Casa;2;306,04;0,0;612,08;CLI0213;RS
+197;03/11/2025;Notebook;Eletrônicos;1;3123,75;0,0;3123,75;CLI0131;SP
+1000;03/11/2025;Mouse sem fio;Eletrônicos;1;82,99;0,2;66,39;CLI0172;MG
+127;03/12/2025;Camiseta;Vestuário;2;59,28;0,0;118,56;CLI0256;RJ
+889;03/12/2025;Mesa para escritório;Móveis;5;621,59;0,0;3107,95;CLI0234;BA
+191;04/01/2025;Teclado mecânico;Eletrônicos;3;241,91;0,0;725,73;CLI0325;SP
+383;04/01/2025;Mesa para escritório;Móveis;1;659,37;0,1;593,43;CLI0172;RJ
+184;04/02/2025;Mouse sem fio;Eletrônicos;3;80,85;0,0;242,55;CLI0067;RS
+209;04/02/2025;Garrafa térmica;Casa;1;73,23;0,0;73,23;CLI0260;SP
+74;04/03/2025;Garrafa térmica;Casa;1;74,68;0,05;70,95;CLI0163;PR
+477;04/03/2025;Notebook;Eletrônicos;1;3307,89;0,0;3307,89;CLI0206;SP
+480;04/03/2025;Notebook;Eletrônicos;4;3027,44;0,15;10293,3;CLI0203;MG
+670;04/04/2025;Luminária de mesa;Casa;2;106,89;0,1;192,4;CLI0233;RJ
+242;04/05/2025;Carteira;Acessórios;2;61,91;0,05;117,63;CLI0069;RS
+342;04/05/2025;Camiseta;Vestuário;1;62,47;0,0;62,47;CLI0030;MG
+912;04/05/2025;Carteira;Acessórios;2;67,11;0,05;127,51;CLI0093;SC
+317;04/06/2025;Luminária de mesa;Casa;2;103,55;0,1;186,39;CLI0032;SC
+622;04/06/2025;Garrafa térmica;Casa;3;75,45;0,0;226,35;CLI0270;SC
+775;04/06/2025;Notebook;Eletrônicos;1;3093,2;0,15;2629,22;CLI0142;SP
+874;04/06/2025;Jogo de panelas;Casa;1;323,48;0,0;323,48;CLI0082;SP
+907;04/06/2025;Garrafa térmica;Casa;2;77,27;0,05;146,81;CLI0200;RJ
+947;04/06/2025;Cadeira de escritório;Móveis;1;785,4;0,0;785,4;CLI0049;PE
+444;04/07/2025;Jaqueta;Vestuário;1;276,2;0,1;248,58;CLI0280;MG
+535;04/07/2025;Carteira;Acessórios;1;63,97;0,05;60,77;CLI0064;RJ
+80;04/08/2025;Mesa para escritório;Móveis;4;656,56;0,1;2363,62;CLI0295;GO
+329;04/08/2025;Cadeira de escritório;Móveis;5;769,0;0,15;3268,25;CLI0193;GO
+553;04/08/2025;Tênis casual;Vestuário;3;216,61;0,05;617,34;CLI0061;MG
+581;04/08/2025;Mochila;Acessórios;3;153,6;0,0;460,8;CLI0082;RS
+980;04/08/2025;Garrafa térmica;Casa;2;70,69;0,0;141,38;CLI0119;SP
+875;04/09/2025;Mesa para escritório;Móveis;1;627,24;0,1;564,52;CLI0223;MG
+120;04/10/2025;Garrafa térmica;Casa;1;75,88;0,15;64,5;CLI0310;RS
+896;04/10/2025;Tênis casual;Vestuário;2;222,98;0,15;379,07;CLI0006;MG
+933;04/10/2025;Mochila;Acessórios;1;160,65;0,1;144,59;CLI0009;MG
+973;04/10/2025;Mouse sem fio;Eletrônicos;2;87,42;0,1;157,36;CLI0108;GO
+595;04/11/2025;Garrafa térmica;Casa;2;73,77;0,05;140,16;CLI0338;SP
+673;04/11/2025;Notebook;Eletrônicos;3;3212,07;0,1;8672,59;CLI0338;SP
+69;04/12/2025;Mouse sem fio;Eletrônicos;1;86,67;0,05;82,34;CLI0121;SP
+656;04/12/2025;Camiseta;Vestuário;5;61,6;0,05;292,6;CLI0113;RJ
+828;04/12/2025;Camiseta;Vestuário;1;62,55;0,0;62,55;CLI0215;RS
+949;04/12/2025;Monitor 24 polegadas;Eletrônicos;1;857,29;0,1;771,56;CLI0243;SC
+43;05/01/2025;Garrafa térmica;Casa;2;75,57;0,0;151,14;CLI0260;MG
+46;05/01/2025;Mochila;Acessórios;3;156,15;0,1;421,61;CLI0069;ES
+434;05/01/2025;Carteira;Acessórios;1;62,04;0,15;52,73;CLI0245;SC
+540;05/01/2025;Garrafa térmica;Casa;4;76,33;0,05;290,05;CLI0130;SP
+797;05/01/2025;Mouse sem fio;Eletrônicos;1;82,67;0,15;70,27;CLI0056;SC
+143;05/02/2025;Monitor 24 polegadas;Eletrônicos;2;934,96;0,2;1495,94;CLI0223;RS
+437;05/02/2025;Jogo de panelas;Casa;2;324,24;0,0;648,48;CLI0110;RJ
+739;05/02/2025;Teclado mecânico;Eletrônicos;1;228,78;0,05;217,34;CLI0319;MG
+161;05/03/2025;Garrafa térmica;Casa;1;77,24;0,0;77,24;CLI0327;RJ
+230;05/03/2025;Fone Bluetooth;Eletrônicos;1;182,26;0,0;182,26;CLI0224;MG
+268;05/03/2025;Jogo de panelas;Casa;1;307,12;0,0;307,12;CLI0178;SC
+987;05/04/2025;Monitor 24 polegadas;Eletrônicos;2;840,3;0,0;1680,6;CLI0191;RJ
+30;05/05/2025;Tênis casual;Vestuário;1;217,55;0,0;217,55;CLI0182;SC
+171;05/05/2025;Teclado mecânico;Eletrônicos;3;231,51;0,1;625,08;CLI0301;PR
+463;05/05/2025;Garrafa térmica;Casa;1;79,25;0,2;63,4;CLI0280;RS
+67;05/06/2025;Fone Bluetooth;Eletrônicos;1;196,52;0,05;186,69;CLI0227;RJ
+821;05/06/2025;Tênis casual;Vestuário;3;218,98;0,0;656,94;CLI0028;PR
+882;05/06/2025;Jaqueta;Vestuário;4;277,81;0,2;888,99;CLI0046;RJ
+31;05/08/2025;Mesa para escritório;Móveis;1;667,87;0,1;601,08;CLI0051;PE
+584;05/09/2025;Jaqueta;Vestuário;2;293,02;0,0;586,04;CLI0336;SP
+682;05/09/2025;Teclado mecânico;Eletrônicos;1;241,58;0,0;241,58;CLI0177;RJ
+492;05/10/2025;Fone Bluetooth;Eletrônicos;1;179,47;0,0;179,47;CLI0011;PR
+37;05/12/2025;Carteira;Acessórios;2;62,58;0,0;125,16;CLI0278;SP
+174;05/12/2025;Camiseta;Vestuário;1;56,41;0,1;50,77;CLI0166;SP
+334;05/12/2025;Mesa para escritório;Móveis;2;684,03;0,15;1162,85;CLI0035;SP
+587;05/12/2025;Carteira;Acessórios;1;63,8;0,1;57,42;CLI0286;RJ
+725;05/12/2025;Fone Bluetooth;Eletrônicos;4;194,58;0,0;778,32;CLI0053;SP
+435;06/02/2025;Monitor 24 polegadas;Eletrônicos;1;914,65;0,0;914,65;CLI0154;RJ
+270;06/03/2025;Mochila;Acessórios;1;160,64;0,05;152,61;CLI0298;SP
+422;06/03/2025;Carteira;Acessórios;3;63,05;0,1;170,23;CLI0347;BA
+310;06/04/2025;Jaqueta;Vestuário;2;292,51;0,0;585,02;CLI0153;SP
+377;06/04/2025;Mesa para escritório;Móveis;1;654,27;0,0;654,27;CLI0182;SP
+619;06/04/2025;Teclado mecânico;Eletrônicos;2;229,04;0,0;458,08;CLI0136;SP
+11;06/05/2025;Teclado mecânico;Eletrônicos;1;233,37;0,15;198,36;CLI0113;SC
+464;06/05/2025;Teclado mecânico;Eletrônicos;1;237,41;0,0;237,41;CLI0005;RJ
+103;06/06/2025;Mochila;Acessórios;2;159,49;0,05;303,03;CLI0282;MG
+563;06/06/2025;Teclado mecânico;Eletrônicos;1;226,92;0,15;192,88;CLI0267;MG
+983;06/06/2025;Teclado mecânico;Eletrônicos;3;232,13;0,0;696,39;CLI0025;SP
+458;06/07/2025;Mesa para escritório;Móveis;4;624,96;0,2;1999,87;CLI0336;SP
+495;06/07/2025;Mouse sem fio;Eletrônicos;1;89,51;0,0;89,51;CLI0155;SP
+594;06/07/2025;Camiseta;Vestuário;1;57,91;0,05;55,01;CLI0318;PR
+759;06/07/2025;Tênis casual;Vestuário;2;215,27;0,0;430,54;CLI0199;PE
+73;06/08/2025;Monitor 24 polegadas;Eletrônicos;1;938,91;0,05;891,96;CLI0128;SP
+677;06/08/2025;Teclado mecânico;Eletrônicos;1;247,66;0,15;210,51;CLI0307;SP
+428;06/09/2025;Tênis casual;Vestuário;1;224,82;0,0;224,82;CLI0236;SP
+532;06/09/2025;Tênis casual;Vestuário;2;216,67;0,0;433,34;CLI0034;BA
+136;06/10/2025;Mesa para escritório;Móveis;1;636,1;0,0;636,1;CLI0293;SC
+240;06/10/2025;Jogo de panelas;Casa;3;320,29;0,0;960,87;CLI0023;GO
+391;06/10/2025;Notebook;Eletrônicos;3;3146,06;0,15;8022,45;CLI0327;MG
+678;06/10/2025;Mesa para escritório;Móveis;1;611,43;0,1;550,29;CLI0268;SP
+6;06/11/2025;Fone Bluetooth;Eletrônicos;3;195,24;0,05;556,43;CLI0194;PE
+181;06/11/2025;Mesa para escritório;Móveis;1;665,74;0,15;565,88;CLI0283;SC
+996;06/11/2025;Jogo de panelas;Casa;4;335,68;0,0;1342,72;CLI0219;SP
+85;06/12/2025;Notebook;Eletrônicos;1;3172,59;0,15;2696,7;CLI0134;SP
+704;06/12/2025;Garrafa térmica;Casa;2;77,38;0,05;147,02;CLI0247;SP
+109;07/01/2025;Luminária de mesa;Casa;1;109,72;0,0;109,72;CLI0130;PE
+745;07/01/2025;Mouse sem fio;Eletrônicos;5;87,19;0,0;435,95;CLI0127;PE
+179;07/02/2025;Jaqueta;Vestuário;1;283,64;0,0;283,64;CLI0325;SP
+210;07/02/2025;Fone Bluetooth;Eletrônicos;1;179,46;0,0;179,46;CLI0331;SP
+695;07/02/2025;Jogo de panelas;Casa;1;337,17;0,1;303,45;CLI0276;ES
+955;07/02/2025;Garrafa térmica;Casa;2;70,99;0,0;141,98;CLI0313;SP
+52;07/03/2025;Notebook;Eletrônicos;1;3353,21;0,1;3017,89;CLI0184;GO
+220;07/03/2025;Mochila;Acessórios;2;168,58;0,2;269,73;CLI0048;ES
+707;07/03/2025;Notebook;Eletrônicos;2;3170,5;0,15;5389,85;CLI0178;SP
+546;07/04/2025;Teclado mecânico;Eletrônicos;2;232,52;0,0;465,04;CLI0308;GO
+977;07/04/2025;Jaqueta;Vestuário;3;266,13;0,0;798,39;CLI0040;SP
+382;07/05/2025;Carteira;Acessórios;2;65,73;0,0;131,46;CLI0156;SP
+416;07/05/2025;Fone Bluetooth;Eletrônicos;3;179,33;0,0;537,99;CLI0045;GO
+961;07/05/2025;Monitor 24 polegadas;Eletrônicos;1;898,49;0,15;763,72;CLI0077;PR
+829;07/06/2025;Fone Bluetooth;Eletrônicos;2;200,51;0,0;401,02;CLI0068;SP
+878;07/06/2025;Mesa para escritório;Móveis;1;619,48;0,1;557,53;CLI0195;RS
+257;07/07/2025;Mesa para escritório;Móveis;1;632,74;0,2;506,19;CLI0096;SP
+284;07/07/2025;Notebook;Eletrônicos;1;3226,99;0,0;3226,99;CLI0038;PR
+567;07/07/2025;Carteira;Acessórios;2;61,39;0,15;104,36;CLI0274;SP
+681;07/07/2025;Luminária de mesa;Casa;1;112,38;0,1;101,14;CLI0286;RJ
+315;07/08/2025;Jogo de panelas;Casa;1;316,19;0,0;316,19;CLI0245;PE
+340;07/08/2025;Jogo de panelas;Casa;2;338,14;0,15;574,84;CLI0269;SC
+770;07/08/2025;Jaqueta;Vestuário;1;289,83;0,05;275,34;CLI0337;MG
+805;07/08/2025;Fone Bluetooth;Eletrônicos;4;186,11;0,05;707,22;CLI0071;SP
+841;07/08/2025;Luminária de mesa;Casa;3;106,83;0,05;304,47;CLI0067;PR
+969;07/08/2025;Tênis casual;Vestuário;1;231,78;0,05;220,19;CLI0042;BA
+359;07/09/2025;Notebook;Eletrônicos;1;3219,83;0,0;3219,83;CLI0141;MG
+629;07/09/2025;Notebook;Eletrônicos;1;3258,19;0,0;3258,19;CLI0050;SP
+645;07/09/2025;Cadeira de escritório;Móveis;1;796,03;0,0;796,03;CLI0036;SP
+657;07/09/2025;Monitor 24 polegadas;Eletrônicos;1;876,06;0,0;876,06;CLI0185;SP
+662;07/09/2025;Tênis casual;Vestuário;2;222,75;0,05;423,22;CLI0085;SP
+877;07/09/2025;Mouse sem fio;Eletrônicos;2;84,62;0,05;160,78;CLI0091;BA
+2;07/10/2025;Mouse sem fio;Eletrônicos;2;80,22;0,0;160,44;CLI0309;SP
+274;07/10/2025;Fone Bluetooth;Eletrônicos;2;185,49;0,0;370,98;CLI0208;BA
+773;07/10/2025;Monitor 24 polegadas;Eletrônicos;1;895,37;0,1;805,83;CLI0232;RJ
+25;07/11/2025;Mesa para escritório;Móveis;5;683,46;0,1;3075,57;CLI0160;SC
+195;07/11/2025;Garrafa térmica;Casa;1;72,44;0,05;68,82;CLI0057;RJ
+637;07/11/2025;Mouse sem fio;Eletrônicos;1;89,35;0,0;89,35;CLI0016;BA
+650;07/11/2025;Mouse sem fio;Eletrônicos;3;88,66;0,0;265,98;CLI0135;MG
+669;07/11/2025;Garrafa térmica;Casa;3;72,04;0,1;194,51;CLI0299;PR
+764;07/11/2025;Carteira;Acessórios;1;68,36;0,0;68,36;CLI0041;MG
+186;07/12/2025;Tênis casual;Vestuário;1;230,98;0,0;230,98;CLI0160;SP
+140;08/01/2025;Carteira;Acessórios;1;67,89;0,2;54,31;CLI0136;SP
+446;08/01/2025;Fone Bluetooth;Eletrônicos;1;199,63;0,15;169,69;CLI0147;RJ
+561;08/01/2025;Jaqueta;Vestuário;1;291,2;0,0;291,2;CLI0321;SC
+793;08/01/2025;Cadeira de escritório;Móveis;2;743,62;0,05;1412,88;CLI0108;SP
+620;08/03/2025;Teclado mecânico;Eletrônicos;2;232,94;0,0;465,88;CLI0080;SC
+674;08/03/2025;Jaqueta;Vestuário;2;291,0;0,15;494,7;CLI0333;RS
+865;08/03/2025;Notebook;Eletrônicos;1;3267,39;0,0;3267,39;CLI0219;SP
+280;08/04/2025;Tênis casual;Vestuário;1;233,09;0,05;221,44;CLI0255;GO
+549;08/04/2025;Cadeira de escritório;Móveis;2;754,01;0,05;1432,62;CLI0344;BA
+599;08/04/2025;Carteira;Acessórios;1;67,01;0,0;67,01;CLI0345;SC
+756;08/04/2025;Luminária de mesa;Casa;1;107,99;0,1;97,19;CLI0307;SP
+760;08/04/2025;Jogo de panelas;Casa;2;330,2;0,0;660,4;CLI0210;SP
+56;08/05/2025;Fone Bluetooth;Eletrônicos;1;194,59;0,0;194,59;CLI0241;SP
+562;08/05/2025;Monitor 24 polegadas;Eletrônicos;2;873,38;0,0;1746,76;CLI0302;RJ
+703;08/05/2025;Camiseta;Vestuário;2;57,43;0,0;114,86;CLI0347;ES
+450;08/06/2025;Carteira;Acessórios;1;68,54;0,0;68,54;CLI0223;SP
+732;08/06/2025;Jaqueta;Vestuário;1;281,33;0,1;253,2;CLI0188;MG
+227;08/07/2025;Mochila;Acessórios;4;169,3;0,05;643,34;CLI0196;SP
+94;08/08/2025;Mochila;Acessórios;1;160,11;0,0;160,11;CLI0251;BA
+354;08/09/2025;Carteira;Acessórios;2;64,93;0,0;129,86;CLI0087;BA
+816;08/09/2025;Carteira;Acessórios;1;64,67;0,0;64,67;CLI0022;RJ
+960;08/09/2025;Camiseta;Vestuário;5;60,56;0,1;272,52;CLI0220;SP
+541;08/11/2025;Tênis casual;Vestuário;4;225,62;0,1;812,23;CLI0193;SP
+604;08/11/2025;Jaqueta;Vestuário;2;271,54;0,0;543,08;CLI0151;RJ
+687;08/11/2025;Notebook;Eletrônicos;2;3365,38;0,0;6730,76;CLI0147;SC
+817;08/11/2025;Carteira;Acessórios;3;66,72;0,0;200,16;CLI0293;ES
+65;08/12/2025;Mesa para escritório;Móveis;1;665,38;0,05;632,11;CLI0341;SP
+261;08/12/2025;Cadeira de escritório;Móveis;2;784,68;0,0;1569,36;CLI0081;SP
+318;08/12/2025;Mouse sem fio;Eletrônicos;1;81,53;0,1;73,38;CLI0160;ES
+935;08/12/2025;Jogo de panelas;Casa;1;326,84;0,15;277,81;CLI0297;SP
+991;08/12/2025;Teclado mecânico;Eletrônicos;3;246,58;0,15;628,78;CLI0058;RJ
+175;09/01/2025;Teclado mecânico;Eletrônicos;1;229,25;0,0;229,25;CLI0033;SP
+429;09/01/2025;Mouse sem fio;Eletrônicos;4;81,51;0,05;309,74;CLI0220;PE
+369;09/02/2025;Fone Bluetooth;Eletrônicos;1;184,08;0,1;165,67;CLI0277;RJ
+767;09/02/2025;Monitor 24 polegadas;Eletrônicos;5;846,97;0,1;3811,37;CLI0098;MG
+224;09/03/2025;Luminária de mesa;Casa;1;105,54;0,1;94,99;CLI0085;RS
+965;09/03/2025;Cadeira de escritório;Móveis;1;793,82;0,0;793,82;CLI0157;MG
+768;09/04/2025;Jogo de panelas;Casa;2;322,69;0,15;548,57;CLI0286;PR
+121;09/05/2025;Notebook;Eletrônicos;1;3377,37;0,1;3039,63;CLI0011;PR
+612;09/05/2025;Teclado mecânico;Eletrônicos;3;245,49;0,0;736,47;CLI0017;RS
+661;09/05/2025;Mesa para escritório;Móveis;5;628,39;0,0;3141,95;CLI0177;BA
+755;09/05/2025;Jaqueta;Vestuário;1;286,94;0,05;272,59;CLI0251;PR
+130;09/06/2025;Jogo de panelas;Casa;1;316,47;0,0;316,47;CLI0059;BA
+193;09/06/2025;Carteira;Acessórios;1;68,44;0,05;65,02;CLI0080;GO
+533;09/06/2025;Carteira;Acessórios;2;62,16;0,15;105,67;CLI0015;GO
+351;09/07/2025;Cadeira de escritório;Móveis;1;785,85;0,0;785,85;CLI0134;SP
+515;09/07/2025;Jaqueta;Vestuário;1;269,47;0,0;269,47;CLI0135;MG
+884;09/07/2025;Jaqueta;Vestuário;2;264,99;0,1;476,98;CLI0184;BA
+997;09/07/2025;Mesa para escritório;Móveis;1;633,2;0,0;633,2;CLI0288;PE
+384;09/08/2025;Camiseta;Vestuário;3;60,99;0,05;173,82;CLI0309;RJ
+675;09/08/2025;Jogo de panelas;Casa;1;334,39;0,1;300,95;CLI0247;MG
+373;09/09/2025;Monitor 24 polegadas;Eletrônicos;1;937,11;0,0;937,11;CLI0339;SC
+386;09/09/2025;Luminária de mesa;Casa;3;107,7;0,0;323,1;CLI0187;BA
+706;09/09/2025;Teclado mecânico;Eletrônicos;5;251,98;0,0;1259,9;CLI0296;SP
+740;09/09/2025;Monitor 24 polegadas;Eletrônicos;1;852,85;0,2;682,28;CLI0053;SP
+34;09/10/2025;Mouse sem fio;Eletrônicos;1;90,09;0,1;81,08;CLI0122;PE
+838;09/10/2025;Mouse sem fio;Eletrônicos;1;81,27;0,1;73,14;CLI0270;SP
+71;09/11/2025;Camiseta;Vestuário;3;59,58;0,15;151,93;CLI0197;PR
+163;09/11/2025;Monitor 24 polegadas;Eletrônicos;2;904,46;0,05;1718,47;CLI0333;SC
+299;09/11/2025;Garrafa térmica;Casa;1;72,72;0,05;69,08;CLI0153;SP
+946;09/11/2025;Carteira;Acessórios;1;62,5;0,05;59,38;CLI0322;ES
+29;09/12/2025;Garrafa térmica;Casa;1;71,69;0,15;60,94;CLI0243;PR
+517;09/12/2025;Cadeira de escritório;Móveis;3;771,95;0,1;2084,27;CLI0032;SP
+626;09/12/2025;Cadeira de escritório;Móveis;1;817,86;0,05;776,97;CLI0021;PR
+235;10/01/2025;Fone Bluetooth;Eletrônicos;1;182,01;0,15;154,71;CLI0217;PR
+592;10/01/2025;Mouse sem fio;Eletrônicos;1;80,27;0,05;76,26;CLI0310;BA
+668;10/01/2025;Jaqueta;Vestuário;2;285,43;0,0;570,86;CLI0230;SP
+798;10/01/2025;Fone Bluetooth;Eletrônicos;3;193,41;0,0;580,23;CLI0051;RJ
+7;10/02/2025;Jogo de panelas;Casa;1;324,94;0,15;276,2;CLI0099;RJ
+250;10/02/2025;Mesa para escritório;Móveis;2;675,14;0,05;1282,77;CLI0041;RJ
+868;10/02/2025;Jaqueta;Vestuário;3;278,85;0,0;836,55;CLI0240;BA
+654;10/03/2025;Garrafa térmica;Casa;2;71,31;0,0;142,62;CLI0123;SP
+646;10/04/2025;Cadeira de escritório;Móveis;2;763,93;0,1;1375,07;CLI0079;SC
+87;10/05/2025;Camiseta;Vestuário;1;56,45;0,05;53,63;CLI0180;PE
+643;10/05/2025;Monitor 24 polegadas;Eletrônicos;1;908,26;0,05;862,85;CLI0282;SP
+901;10/05/2025;Teclado mecânico;Eletrônicos;2;233,53;0,0;467,06;CLI0310;RS
+42;10/06/2025;Monitor 24 polegadas;Eletrônicos;1;850,58;0,05;808,05;CLI0038;MG
+558;10/06/2025;Mochila;Acessórios;1;159,08;0,0;159,08;CLI0296;RS
+585;10/06/2025;Notebook;Eletrônicos;2;3268,32;0,1;5882,98;CLI0290;PR
+913;10/06/2025;Jogo de panelas;Casa;1;301,13;0,0;301,13;CLI0269;RJ
+162;10/07/2025;Mouse sem fio;Eletrônicos;2;84,71;0,05;160,95;CLI0168;ES
+478;10/07/2025;Mochila;Acessórios;2;162,78;0,05;309,28;CLI0039;SP
+705;10/07/2025;Luminária de mesa;Casa;1;115,26;0,15;97,97;CLI0141;PR
+772;10/07/2025;Mesa para escritório;Móveis;3;644,59;0,1;1740,39;CLI0289;PR
+854;10/07/2025;Garrafa térmica;Casa;3;73,22;0,05;208,68;CLI0192;SP
+975;10/07/2025;Cadeira de escritório;Móveis;1;780,14;0,1;702,13;CLI0273;MG
+207;10/09/2025;Garrafa térmica;Casa;3;77,34;0,0;232,02;CLI0290;ES
+742;10/09/2025;Monitor 24 polegadas;Eletrônicos;1;869,88;0,1;782,89;CLI0238;PE
+588;10/11/2025;Notebook;Eletrônicos;1;3366,8;0,05;3198,46;CLI0254;MG
+710;10/11/2025;Camiseta;Vestuário;1;60,25;0,0;60,25;CLI0314;MG
+827;10/11/2025;Teclado mecânico;Eletrônicos;1;236,56;0,1;212,9;CLI0290;ES
+959;10/11/2025;Jaqueta;Vestuário;1;295,8;0,15;251,43;CLI0268;SP
+10;10/12/2025;Fone Bluetooth;Eletrônicos;2;194,18;0,0;388,36;CLI0274;SC
+346;10/12/2025;Jogo de panelas;Casa;1;308,82;0,15;262,5;CLI0008;RJ
+888;10/12/2025;Teclado mecânico;Eletrônicos;1;227,67;0,0;227,67;CLI0250;RS
+41;11/02/2025;Mesa para escritório;Móveis;2;655,09;0,0;1310,18;CLI0343;SP
+218;11/02/2025;Luminária de mesa;Casa;2;115,5;0,0;231,0;CLI0340;SC
+330;11/02/2025;Mochila;Acessórios;5;167,19;0,0;835,95;CLI0061;GO
+471;11/03/2025;Tênis casual;Vestuário;3;209,68;0,0;629,04;CLI0161;MG
+787;11/03/2025;Garrafa térmica;Casa;2;74,89;0,1;134,8;CLI0316;SP
+807;11/03/2025;Mesa para escritório;Móveis;5;687,11;0,0;3435,55;CLI0081;ES
+618;11/04/2025;Tênis casual;Vestuário;2;211,91;0,0;423,82;CLI0039;PE
+105;11/06/2025;Mouse sem fio;Eletrônicos;2;89,6;0,1;161,28;CLI0248;SP
+557;11/06/2025;Camiseta;Vestuário;2;61,91;0,05;117,63;CLI0091;SC
+709;11/06/2025;Carteira;Acessórios;1;66,36;0,0;66,36;CLI0186;SP
+799;11/06/2025;Garrafa térmica;Casa;3;75,28;0,0;225,84;CLI0235;MG
+597;11/07/2025;Carteira;Acessórios;1;68,1;0,05;64,69;CLI0210;BA
+640;11/07/2025;Notebook;Eletrônicos;2;3221,15;0,0;6442,3;CLI0306;SP
+736;11/07/2025;Monitor 24 polegadas;Eletrônicos;1;896,47;0,0;896,47;CLI0331;SP
+813;11/07/2025;Teclado mecânico;Eletrônicos;3;239,75;0,0;719,25;CLI0017;SP
+522;11/08/2025;Monitor 24 polegadas;Eletrônicos;5;903,59;0,1;4066,15;CLI0035;SP
+951;11/08/2025;Fone Bluetooth;Eletrônicos;1;196,96;0,1;177,26;CLI0027;SP
+72;11/09/2025;Mesa para escritório;Móveis;1;662,17;0,0;662,17;CLI0055;RS
+443;11/09/2025;Mesa para escritório;Móveis;1;649,97;0,05;617,47;CLI0007;MG
+964;11/09/2025;Monitor 24 polegadas;Eletrônicos;1;917,03;0,1;825,33;CLI0112;RJ
+18;11/10/2025;Camiseta;Vestuário;4;61,2;0,0;244,8;CLI0137;GO
+352;11/10/2025;Jaqueta;Vestuário;2;287,39;0,0;574,78;CLI0118;SP
+378;11/10/2025;Mouse sem fio;Eletrônicos;2;87,9;0,15;149,43;CLI0212;SP
+757;11/10/2025;Teclado mecânico;Eletrônicos;1;230,06;0,0;230,06;CLI0188;SP
+776;11/10/2025;Jogo de panelas;Casa;2;336,36;0,0;672,72;CLI0183;SP
+655;11/11/2025;Mochila;Acessórios;1;160,27;0,0;160,27;CLI0290;SP
+842;11/11/2025;Luminária de mesa;Casa;2;113,03;0,05;214,76;CLI0313;BA
+70;11/12/2025;Fone Bluetooth;Eletrônicos;1;183,14;0,0;183,14;CLI0244;SP
+122;11/12/2025;Camiseta;Vestuário;1;56,6;0,1;50,94;CLI0334;MG
+291;11/12/2025;Mouse sem fio;Eletrônicos;5;85,85;0,1;386,32;CLI0323;RS
+700;11/12/2025;Carteira;Acessórios;3;61,69;0,15;157,31;CLI0182;MG
+281;12/01/2025;Mouse sem fio;Eletrônicos;4;85,06;0,2;272,19;CLI0181;SP
+326;12/01/2025;Mesa para escritório;Móveis;1;611,24;0,0;611,24;CLI0217;SP
+399;12/01/2025;Camiseta;Vestuário;1;57,09;0,1;51,38;CLI0125;ES
+479;12/01/2025;Mouse sem fio;Eletrônicos;1;86,49;0,1;77,84;CLI0170;SP
+365;12/02/2025;Garrafa térmica;Casa;3;76,3;0,0;228,9;CLI0049;PE
+727;12/02/2025;Mouse sem fio;Eletrônicos;1;81,48;0,1;73,33;CLI0159;GO
+16;12/03/2025;Jogo de panelas;Casa;2;329,82;0,15;560,69;CLI0082;SP
+155;12/03/2025;Mochila;Acessórios;1;162,45;0,0;162,45;CLI0018;BA
+304;12/03/2025;Mouse sem fio;Eletrônicos;2;85,89;0,0;171,78;CLI0272;SC
+306;12/03/2025;Notebook;Eletrônicos;5;3383,52;0,0;16917,6;CLI0244;SC
+408;12/03/2025;Luminária de mesa;Casa;1;105,85;0,05;100,56;CLI0331;SC
+436;12/03/2025;Mesa para escritório;Móveis;3;669,75;0,0;2009,25;CLI0074;PE
+556;12/03/2025;Monitor 24 polegadas;Eletrônicos;1;942,03;0,15;800,73;CLI0074;PE
+967;12/03/2025;Camiseta;Vestuário;2;57,64;0,15;97,99;CLI0325;PR
+206;12/04/2025;Teclado mecânico;Eletrônicos;2;247,49;0,1;445,48;CLI0322;SP
+303;12/05/2025;Carteira;Acessórios;1;62,68;0,05;59,55;CLI0140;ES
+576;12/05/2025;Mochila;Acessórios;1;169,38;0,0;169,38;CLI0052;MG
+808;12/06/2025;Mouse sem fio;Eletrônicos;2;89,58;0,0;179,16;CLI0075;RJ
+886;12/06/2025;Carteira;Acessórios;1;64,08;0,05;60,88;CLI0244;SC
+83;12/08/2025;Garrafa térmica;Casa;1;73,53;0,1;66,18;CLI0085;RJ
+200;12/08/2025;Notebook;Eletrônicos;1;3037,9;0,0;3037,9;CLI0208;MG
+248;12/08/2025;Jaqueta;Vestuário;1;277,98;0,2;222,38;CLI0096;RJ
+153;12/09/2025;Camiseta;Vestuário;4;58,36;0,1;210,1;CLI0181;PR
+249;12/09/2025;Carteira;Acessórios;2;68,31;0,05;129,79;CLI0218;BA
+481;12/09/2025;Notebook;Eletrônicos;1;3171,84;0,0;3171,84;CLI0141;GO
+924;12/09/2025;Teclado mecânico;Eletrônicos;2;225,62;0,0;451,24;CLI0078;RJ
+939;12/09/2025;Luminária de mesa;Casa;3;106,31;0,1;287,04;CLI0348;MG
+950;12/09/2025;Teclado mecânico;Eletrônicos;1;252,17;0,0;252,17;CLI0108;RJ
+185;12/10/2025;Notebook;Eletrônicos;2;3223,65;0,0;6447,3;CLI0182;SP
+803;12/10/2025;Fone Bluetooth;Eletrônicos;1;186,39;0,0;186,39;CLI0196;SP
+167;12/11/2025;Mesa para escritório;Móveis;4;632,82;0,1;2278,15;CLI0228;SP
+811;12/11/2025;Fone Bluetooth;Eletrônicos;2;192,56;0,05;365,86;CLI0014;SP
+847;12/11/2025;Notebook;Eletrônicos;3;3082,5;0,1;8322,75;CLI0246;ES
+867;12/11/2025;Cadeira de escritório;Móveis;1;809,71;0,1;728,74;CLI0274;SC
+881;12/11/2025;Luminária de mesa;Casa;1;106,11;0,15;90,19;CLI0348;SP
+101;13/02/2025;Monitor 24 polegadas;Eletrônicos;2;888,78;0,1;1599,8;CLI0331;SC
+392;13/02/2025;Mouse sem fio;Eletrônicos;3;86,61;0,0;259,83;CLI0023;SC
+792;13/02/2025;Mouse sem fio;Eletrônicos;2;82,38;0,05;156,52;CLI0148;SP
+355;13/03/2025;Carteira;Acessórios;2;62,54;0,15;106,32;CLI0031;PE
+440;13/03/2025;Monitor 24 polegadas;Eletrônicos;1;845,6;0,05;803,32;CLI0312;PR
+887;13/03/2025;Monitor 24 polegadas;Eletrônicos;2;926,67;0,0;1853,34;CLI0148;RJ
+932;13/03/2025;Notebook;Eletrônicos;1;3284,38;0,05;3120,16;CLI0033;MG
+89;13/04/2025;Camiseta;Vestuário;1;57,4;0,0;57,4;CLI0289;SC
+157;13/04/2025;Teclado mecânico;Eletrônicos;3;250,84;0,0;752,52;CLI0140;MG
+263;13/04/2025;Tênis casual;Vestuário;1;227,67;0,0;227,67;CLI0189;PR
+484;13/04/2025;Mochila;Acessórios;3;160,5;0,05;457,42;CLI0010;BA
+548;13/05/2025;Jaqueta;Vestuário;1;276,25;0,0;276,25;CLI0293;SC
+634;13/05/2025;Mesa para escritório;Móveis;1;660,16;0,0;660,16;CLI0345;SP
+923;13/05/2025;Mouse sem fio;Eletrônicos;1;80,62;0,1;72,56;CLI0010;RS
+289;13/06/2025;Teclado mecânico;Eletrônicos;1;243,36;0,1;219,02;CLI0260;PR
+341;13/06/2025;Carteira;Acessórios;1;62,26;0,0;62,26;CLI0243;RS
+390;13/07/2025;Mouse sem fio;Eletrônicos;1;86,0;0,05;81,7;CLI0215;MG
+505;13/07/2025;Cadeira de escritório;Móveis;2;742,69;0,05;1411,11;CLI0334;GO
+45;13/08/2025;Camiseta;Vestuário;2;58,48;0,2;93,57;CLI0271;BA
+225;13/08/2025;Notebook;Eletrônicos;1;3267,72;0,0;3267,72;CLI0146;MG
+398;13/08/2025;Carteira;Acessórios;2;63,59;0,0;127,18;CLI0059;BA
+417;13/08/2025;Camiseta;Vestuário;5;61,88;0,0;309,4;CLI0302;BA
+258;13/09/2025;Jogo de panelas;Casa;1;322,37;0,0;322,37;CLI0229;SP
+483;13/09/2025;Mesa para escritório;Móveis;3;648,36;0,0;1945,08;CLI0215;RJ
+601;13/09/2025;Notebook;Eletrônicos;2;3026,65;0,15;5145,31;CLI0248;BA
+702;13/09/2025;Carteira;Acessórios;1;66,84;0,15;56,81;CLI0104;SP
+820;13/10/2025;Mesa para escritório;Móveis;2;660,19;0,0;1320,38;CLI0204;SP
+833;13/10/2025;Camiseta;Vestuário;3;56,66;0,0;169,98;CLI0019;SC
+593;13/11/2025;Mochila;Acessórios;1;160,16;0,0;160,16;CLI0175;SC
+625;13/11/2025;Jogo de panelas;Casa;1;322,36;0,1;290,12;CLI0059;SC
+948;13/11/2025;Cadeira de escritório;Móveis;3;825,56;0,05;2352,85;CLI0321;MG
+995;13/12/2025;Mochila;Acessórios;4;169,14;0,0;676,56;CLI0309;MG
+3;14/01/2025;Jogo de panelas;Casa;1;325,76;0,05;309,47;CLI0302;SP
+292;14/01/2025;Luminária de mesa;Casa;1;116,17;0,1;104,55;CLI0296;RS
+388;14/01/2025;Carteira;Acessórios;1;66,63;0,0;66,63;CLI0036;SP
+513;14/01/2025;Monitor 24 polegadas;Eletrônicos;1;867,77;0,0;867,77;CLI0158;BA
+462;14/02/2025;Jogo de panelas;Casa;1;314,97;0,0;314,97;CLI0319;BA
+523;14/02/2025;Mesa para escritório;Móveis;2;654,06;0,15;1111,9;CLI0007;MG
+998;14/02/2025;Monitor 24 polegadas;Eletrônicos;2;884,04;0,2;1414,46;CLI0148;BA
+430;14/04/2025;Carteira;Acessórios;4;67,98;0,0;271,92;CLI0141;GO
+689;14/04/2025;Camiseta;Vestuário;2;62,08;0,0;124,16;CLI0307;SP
+815;14/04/2025;Tênis casual;Vestuário;1;211,47;0,2;169,18;CLI0316;MG
+830;14/04/2025;Notebook;Eletrônicos;2;3105,19;0,05;5899,86;CLI0279;GO
+930;14/04/2025;Teclado mecânico;Eletrônicos;2;253,46;0,1;456,23;CLI0200;SP
+957;14/04/2025;Cadeira de escritório;Móveis;1;797,99;0,0;797,99;CLI0239;SP
+507;14/05/2025;Mouse sem fio;Eletrônicos;1;81,64;0,0;81,64;CLI0281;RS
+899;14/05/2025;Notebook;Eletrônicos;2;3230,01;0,05;6137,02;CLI0150;SC
+338;14/06/2025;Monitor 24 polegadas;Eletrônicos;1;851,9;0,1;766,71;CLI0154;SP
+531;14/06/2025;Fone Bluetooth;Eletrônicos;2;192,39;0,0;384,78;CLI0209;MG
+861;14/06/2025;Monitor 24 polegadas;Eletrônicos;1;866,15;0,0;866,15;CLI0061;MG
+66;14/07/2025;Mochila;Acessórios;2;153,74;0,05;292,11;CLI0001;RJ
+81;14/07/2025;Garrafa térmica;Casa;1;73,67;0,1;66,3;CLI0215;GO
+86;14/07/2025;Cadeira de escritório;Móveis;1;763,79;0,1;687,41;CLI0216;RJ
+142;14/07/2025;Cadeira de escritório;Móveis;2;816,26;0,05;1550,89;CLI0317;PR
+349;14/07/2025;Garrafa térmica;Casa;2;73,73;0,0;147,46;CLI0255;MG
+353;14/07/2025;Luminária de mesa;Casa;3;109,99;0,1;296,97;CLI0132;SC
+374;14/07/2025;Mouse sem fio;Eletrônicos;3;82,91;0,0;248,73;CLI0138;SP
+583;14/07/2025;Tênis casual;Vestuário;1;207,56;0,1;186,8;CLI0067;BA
+295;14/08/2025;Cadeira de escritório;Móveis;1;771,85;0,0;771,85;CLI0314;MG
+921;14/08/2025;Mouse sem fio;Eletrônicos;2;89,37;0,05;169,8;CLI0252;SP
+20;14/09/2025;Tênis casual;Vestuário;1;230,89;0,15;196,26;CLI0328;SP
+555;14/09/2025;Mouse sem fio;Eletrônicos;3;83,79;0,0;251,37;CLI0078;SP
+802;14/09/2025;Fone Bluetooth;Eletrônicos;3;192,87;0,15;491,82;CLI0016;GO
+693;14/10/2025;Jaqueta;Vestuário;2;274,88;0,1;494,78;CLI0100;SP
+972;14/10/2025;Carteira;Acessórios;1;66,63;0,0;66,63;CLI0123;PE
+54;14/11/2025;Carteira;Acessórios;1;68,35;0,15;58,1;CLI0091;PE
+147;14/11/2025;Mochila;Acessórios;1;167,93;0,0;167,93;CLI0131;MG
+915;14/11/2025;Mouse sem fio;Eletrônicos;1;85,96;0,15;73,07;CLI0307;SP
+970;14/11/2025;Jaqueta;Vestuário;1;294,52;0,05;279,79;CLI0187;ES
+256;14/12/2025;Garrafa térmica;Casa;4;73,85;0,1;265,86;CLI0272;PR
+976;14/12/2025;Camiseta;Vestuário;2;58,41;0,05;110,98;CLI0034;BA
+99;15/01/2025;Garrafa térmica;Casa;3;72,14;0,0;216,42;CLI0175;BA
+729;15/01/2025;Notebook;Eletrônicos;2;3338,38;0,0;6676,76;CLI0277;MG
+126;15/02/2025;Cadeira de escritório;Móveis;1;744,05;0,1;669,64;CLI0001;GO
+789;15/02/2025;Mouse sem fio;Eletrônicos;2;84,22;0,0;168,44;CLI0305;RJ
+895;15/02/2025;Monitor 24 polegadas;Eletrônicos;1;915,81;0,2;732,65;CLI0325;SP
+287;15/03/2025;Monitor 24 polegadas;Eletrônicos;2;879,47;0,0;1758,94;CLI0171;SP
+857;15/03/2025;Tênis casual;Vestuário;3;228,5;0,15;582,67;CLI0068;SC
+870;15/03/2025;Camiseta;Vestuário;4;58,16;0,0;232,64;CLI0341;SP
+50;15/05/2025;Teclado mecânico;Eletrônicos;2;241,49;0,0;482,98;CLI0039;SP
+404;15/05/2025;Mochila;Acessórios;3;160,53;0,05;457,51;CLI0313;PR
+316;15/06/2025;Jaqueta;Vestuário;1;271,96;0,0;271,96;CLI0169;RS
+494;15/06/2025;Notebook;Eletrônicos;1;3233,26;0,15;2748,27;CLI0270;RS
+496;15/06/2025;Teclado mecânico;Eletrônicos;5;246,69;0,0;1233,45;CLI0250;SC
+824;15/06/2025;Garrafa térmica;Casa;1;74,58;0,15;63,39;CLI0233;GO
+485;15/07/2025;Tênis casual;Vestuário;2;219,46;0,1;395,03;CLI0290;RJ
+676;15/07/2025;Cadeira de escritório;Móveis;2;802,59;0,1;1444,66;CLI0051;SC
+698;15/07/2025;Mochila;Acessórios;3;154,63;0,1;417,5;CLI0212;BA
+909;15/07/2025;Mochila;Acessórios;1;160,58;0,2;128,46;CLI0273;SP
+68;15/08/2025;Mochila;Acessórios;1;159,49;0,15;135,57;CLI0087;BA
+75;15/08/2025;Luminária de mesa;Casa;3;115,17;0,0;345,51;CLI0229;GO
+123;15/08/2025;Jaqueta;Vestuário;1;296,7;0,0;296,7;CLI0047;BA
+832;15/08/2025;Mouse sem fio;Eletrônicos;2;79,97;0,15;135,95;CLI0322;SP
+139;15/09/2025;Luminária de mesa;Casa;1;104,72;0,1;94,25;CLI0234;SP
+228;15/09/2025;Jogo de panelas;Casa;1;307,02;0,0;307,02;CLI0129;PR
+486;15/09/2025;Cadeira de escritório;Móveis;1;750,03;0,0;750,03;CLI0144;SP
+15;15/10/2025;Jogo de panelas;Casa;1;323,25;0,15;274,76;CLI0113;RJ
+189;15/10/2025;Tênis casual;Vestuário;3;223,0;0,05;635,55;CLI0337;SP
+343;15/10/2025;Mesa para escritório;Móveis;5;654,47;0,0;3272,35;CLI0105;SP
+800;15/10/2025;Jaqueta;Vestuário;2;264,54;0,15;449,72;CLI0251;RJ
+17;15/12/2025;Mesa para escritório;Móveis;2;641,01;0,05;1217,92;CLI0129;MG
+324;15/12/2025;Monitor 24 polegadas;Eletrônicos;2;888,81;0,15;1510,98;CLI0029;MG
+536;15/12/2025;Notebook;Eletrônicos;1;3195,69;0,0;3195,69;CLI0243;PE
+552;15/12/2025;Jaqueta;Vestuário;1;266,2;0,0;266,2;CLI0158;RS
+192;16/01/2025;Mouse sem fio;Eletrônicos;2;82,09;0,0;164,18;CLI0190;RJ
+809;16/01/2025;Tênis casual;Vestuário;1;232,48;0,2;185,98;CLI0327;RJ
+170;16/02/2025;Mochila;Acessórios;1;162,68;0,2;130,14;CLI0171;SP
+211;16/02/2025;Luminária de mesa;Casa;2;108,48;0,05;206,11;CLI0022;ES
+231;16/02/2025;Jaqueta;Vestuário;1;278,36;0,0;278,36;CLI0028;SP
+376;16/02/2025;Notebook;Eletrônicos;4;3178,78;0,1;11443,61;CLI0045;SP
+785;16/02/2025;Monitor 24 polegadas;Eletrônicos;1;920,58;0,0;920,58;CLI0244;RJ
+825;16/02/2025;Fone Bluetooth;Eletrônicos;1;193,39;0,1;174,05;CLI0064;SP
+826;16/02/2025;Mouse sem fio;Eletrônicos;2;86,37;0,0;172,74;CLI0262;SC
+302;16/03/2025;Fone Bluetooth;Eletrônicos;1;200,38;0,0;200,38;CLI0336;ES
+686;16/03/2025;Garrafa térmica;Casa;4;74,42;0,0;297,68;CLI0041;SP
+834;16/03/2025;Camiseta;Vestuário;1;60,46;0,05;57,44;CLI0045;RJ
+904;16/03/2025;Luminária de mesa;Casa;4;105,43;0,05;400,63;CLI0197;PE
+989;16/03/2025;Garrafa térmica;Casa;4;71,9;0,2;230,08;CLI0260;PR
+419;16/04/2025;Tênis casual;Vestuário;1;216,06;0,0;216,06;CLI0166;MG
+570;16/04/2025;Carteira;Acessórios;2;61,17;0,0;122,34;CLI0267;SP
+858;16/04/2025;Carteira;Acessórios;1;64,12;0,15;54,5;CLI0160;SP
+863;16/04/2025;Jogo de panelas;Casa;1;313,03;0,0;313,03;CLI0146;SC
+44;16/05/2025;Teclado mecânico;Eletrônicos;4;250,97;0,15;853,3;CLI0081;RJ
+47;16/05/2025;Mouse sem fio;Eletrônicos;3;87,47;0,0;262,41;CLI0108;SP
+297;16/06/2025;Mochila;Acessórios;1;157,64;0,2;126,11;CLI0273;MG
+137;16/07/2025;Monitor 24 polegadas;Eletrônicos;3;880,47;0,0;2641,41;CLI0196;MG
+891;16/07/2025;Cadeira de escritório;Móveis;1;772,96;0,0;772,96;CLI0122;MG
+953;16/08/2025;Luminária de mesa;Casa;2;108,93;0,1;196,07;CLI0118;GO
+323;16/09/2025;Monitor 24 polegadas;Eletrônicos;2;852,6;0,0;1705,2;CLI0060;MG
+411;16/09/2025;Mochila;Acessórios;2;163,55;0,0;327,1;CLI0251;BA
+672;16/09/2025;Mochila;Acessórios;1;153,27;0,0;153,27;CLI0315;MG
+393;16/10/2025;Mochila;Acessórios;2;158,07;0,1;284,53;CLI0221;PE
+568;16/11/2025;Notebook;Eletrônicos;2;3026,42;0,0;6052,84;CLI0025;BA
+791;16/11/2025;Teclado mecânico;Eletrônicos;1;252,22;0,0;252,22;CLI0080;SC
+900;16/11/2025;Notebook;Eletrônicos;1;3039,68;0,05;2887,7;CLI0143;GO
+445;16/12/2025;Teclado mecânico;Eletrônicos;3;253,09;0,1;683,34;CLI0035;SP
+627;16/12/2025;Jaqueta;Vestuário;1;293,98;0,15;249,88;CLI0277;RJ
+328;17/01/2025;Fone Bluetooth;Eletrônicos;1;196,13;0,1;176,52;CLI0331;PE
+368;17/01/2025;Teclado mecânico;Eletrônicos;4;234,66;0,2;750,91;CLI0204;PR
+500;17/01/2025;Teclado mecânico;Eletrônicos;2;252,13;0,2;403,41;CLI0290;SP
+49;17/02/2025;Mochila;Acessórios;1;155,71;0,0;155,71;CLI0327;RS
+364;17/02/2025;Mesa para escritório;Móveis;1;654,11;0,0;654,11;CLI0088;SP
+431;17/02/2025;Mochila;Acessórios;1;151,98;0,1;136,78;CLI0027;SC
+467;17/02/2025;Notebook;Eletrônicos;4;3352,56;0,05;12739,73;CLI0191;SC
+508;17/02/2025;Cadeira de escritório;Móveis;2;790,64;0,05;1502,22;CLI0335;SP
+624;17/02/2025;Cadeira de escritório;Móveis;1;753,17;0,0;753,17;CLI0112;RJ
+778;17/02/2025;Luminária de mesa;Casa;1;115,52;0,1;103,97;CLI0248;RS
+837;17/02/2025;Tênis casual;Vestuário;1;216,53;0,0;216,53;CLI0219;SP
+294;17/03/2025;Camiseta;Vestuário;2;56,53;0,15;96,1;CLI0010;SP
+984;17/03/2025;Cadeira de escritório;Móveis;1;822,7;0,05;781,57;CLI0275;SP
+114;17/04/2025;Mochila;Acessórios;1;163,08;0,0;163,08;CLI0039;SP
+844;17/04/2025;Tênis casual;Vestuário;2;217,75;0,0;435,5;CLI0327;RJ
+118;17/05/2025;Camiseta;Vestuário;1;56,73;0,1;51,06;CLI0292;PR
+278;17/05/2025;Garrafa térmica;Casa;1;71,37;0,0;71,37;CLI0316;RJ
+362;17/05/2025;Tênis casual;Vestuário;1;216,65;0,0;216,65;CLI0116;PR
+251;17/06/2025;Mochila;Acessórios;1;158,96;0,1;143,06;CLI0228;SP
+879;17/06/2025;Garrafa térmica;Casa;2;71,05;0,0;142,1;CLI0298;SP
+62;17/07/2025;Jaqueta;Vestuário;2;271,76;0,1;489,17;CLI0276;SP
+138;17/07/2025;Mochila;Acessórios;3;162,92;0,0;488,76;CLI0065;PE
+285;17/07/2025;Jogo de panelas;Casa;1;321,91;0,1;289,72;CLI0313;PR
+503;17/08/2025;Notebook;Eletrônicos;1;3103,82;0,0;3103,82;CLI0056;SP
+21;17/09/2025;Luminária de mesa;Casa;1;108,34;0,0;108,34;CLI0272;ES
+223;17/09/2025;Tênis casual;Vestuário;2;226,3;0,05;429,97;CLI0317;SC
+846;17/09/2025;Jogo de panelas;Casa;1;301,04;0,1;270,94;CLI0292;RJ
+647;17/10/2025;Luminária de mesa;Casa;1;107,58;0,0;107,58;CLI0127;SP
+850;17/10/2025;Carteira;Acessórios;2;65,43;0,0;130,86;CLI0170;PR
+128;17/11/2025;Garrafa térmica;Casa;3;72,33;0,05;206,14;CLI0225;ES
+651;17/11/2025;Mouse sem fio;Eletrônicos;2;89,0;0,1;160,2;CLI0298;SC
+12;17/12/2025;Cadeira de escritório;Móveis;3;805,83;0,0;2417,49;CLI0162;SP
+93;17/12/2025;Luminária de mesa;Casa;3;113,91;0,05;324,64;CLI0273;SP
+631;17/12/2025;Mesa para escritório;Móveis;3;627,04;0,1;1693,01;CLI0223;GO
+746;18/01/2025;Monitor 24 polegadas;Eletrônicos;1;918,94;0,05;872,99;CLI0243;PE
+963;18/01/2025;Mesa para escritório;Móveis;2;648,38;0,1;1167,08;CLI0232;BA
+183;18/02/2025;Cadeira de escritório;Móveis;1;795,45;0,0;795,45;CLI0243;SP
+421;18/02/2025;Teclado mecânico;Eletrônicos;5;248,23;0,15;1054,98;CLI0336;PE
+578;18/02/2025;Camiseta;Vestuário;3;56,64;0,15;144,43;CLI0088;SC
+726;18/02/2025;Mouse sem fio;Eletrônicos;4;84,73;0,0;338,92;CLI0269;RS
+53;18/04/2025;Mochila;Acessórios;1;152,37;0,1;137,13;CLI0209;GO
+607;18/04/2025;Luminária de mesa;Casa;2;112,46;0,15;191,18;CLI0333;SP
+529;18/05/2025;Jaqueta;Vestuário;1;274,55;0,1;247,1;CLI0252;RJ
+579;18/06/2025;Cadeira de escritório;Móveis;4;822,6;0,0;3290,4;CLI0191;RS
+379;18/07/2025;Tênis casual;Vestuário;1;230,59;0,15;196,0;CLI0293;PE
+518;18/07/2025;Camiseta;Vestuário;2;63,25;0,1;113,85;CLI0294;ES
+658;18/07/2025;Garrafa térmica;Casa;4;78,43;0,0;313,72;CLI0053;SC
+763;18/07/2025;Mochila;Acessórios;2;162,38;0,05;308,52;CLI0114;SP
+33;18/08/2025;Teclado mecânico;Eletrônicos;1;233,62;0,0;233,62;CLI0227;ES
+226;18/08/2025;Monitor 24 polegadas;Eletrônicos;2;869,65;0,1;1565,37;CLI0100;MG
+591;18/08/2025;Mouse sem fio;Eletrônicos;3;84,46;0,0;253,38;CLI0335;MG
+774;18/08/2025;Mesa para escritório;Móveis;1;613,7;0,0;613,7;CLI0070;SP
+988;18/08/2025;Jogo de panelas;Casa;5;321,29;0,0;1606,45;CLI0256;SP
+290;18/09/2025;Jogo de panelas;Casa;2;322,42;0,05;612,6;CLI0170;SP
+602;18/09/2025;Tênis casual;Vestuário;4;211,48;0,05;803,62;CLI0066;RS
+873;18/09/2025;Mouse sem fio;Eletrônicos;1;87,19;0,0;87,19;CLI0037;PR
+311;18/10/2025;Luminária de mesa;Casa;1;116,38;0,0;116,38;CLI0279;PE
+876;18/10/2025;Tênis casual;Vestuário;1;225,13;0,0;225,13;CLI0294;SC
+893;18/10/2025;Garrafa térmica;Casa;2;71,52;0,05;135,89;CLI0073;SC
+438;18/11/2025;Carteira;Acessórios;1;64,31;0,1;57,88;CLI0045;GO
+447;18/11/2025;Carteira;Acessórios;2;64,34;0,1;115,81;CLI0275;SP
+979;18/11/2025;Notebook;Eletrônicos;1;3380,32;0,05;3211,3;CLI0178;SP
+63;18/12/2025;Carteira;Acessórios;4;66,85;0,0;267,4;CLI0341;MG
+506;18/12/2025;Monitor 24 polegadas;Eletrônicos;1;844,47;0,1;760,02;CLI0164;SP
+245;19/01/2025;Fone Bluetooth;Eletrônicos;1;196,64;0,15;167,14;CLI0159;RJ
+934;19/01/2025;Cadeira de escritório;Móveis;1;806,94;0,0;806,94;CLI0335;SP
+551;19/02/2025;Garrafa térmica;Casa;1;72,83;0,1;65,55;CLI0094;RS
+717;19/02/2025;Garrafa térmica;Casa;2;72,84;0,0;145,68;CLI0132;PR
+869;19/02/2025;Garrafa térmica;Casa;1;76,3;0,1;68,67;CLI0115;MG
+938;19/02/2025;Garrafa térmica;Casa;2;78,02;0,0;156,04;CLI0059;BA
+111;19/03/2025;Teclado mecânico;Eletrônicos;3;252,93;0,0;758,79;CLI0286;SP
+347;19/04/2025;Jaqueta;Vestuário;1;288,11;0,1;259,3;CLI0125;RS
+427;19/04/2025;Garrafa térmica;Casa;1;77,96;0,0;77,96;CLI0290;PR
+642;19/04/2025;Mesa para escritório;Móveis;4;677,41;0,0;2709,64;CLI0316;SP
+845;19/04/2025;Notebook;Eletrônicos;2;3272,97;0,0;6545,94;CLI0154;SP
+367;19/05/2025;Notebook;Eletrônicos;4;3270,82;0,0;13083,28;CLI0337;PR
+571;19/05/2025;Luminária de mesa;Casa;2;105,21;0,1;189,38;CLI0317;SP
+713;19/05/2025;Tênis casual;Vestuário;1;218,21;0,0;218,21;CLI0077;SP
+911;19/05/2025;Fone Bluetooth;Eletrônicos;3;184,42;0,05;525,6;CLI0346;MG
+64;19/06/2025;Luminária de mesa;Casa;1;114,59;0,1;103,13;CLI0159;RJ
+104;19/06/2025;Cadeira de escritório;Móveis;2;758,56;0,0;1517,12;CLI0099;SP
+313;19/06/2025;Teclado mecânico;Eletrônicos;2;244,27;0,1;439,69;CLI0173;SP
+344;19/06/2025;Mochila;Acessórios;1;159,04;0,0;159,04;CLI0098;MG
+370;19/06/2025;Mesa para escritório;Móveis;3;621,92;0,2;1492,61;CLI0257;RS
+871;19/06/2025;Tênis casual;Vestuário;3;215,37;0,05;613,8;CLI0058;SP
+990;19/06/2025;Mochila;Acessórios;2;159,5;0,0;319,0;CLI0294;ES
+737;19/07/2025;Camiseta;Vestuário;1;58,2;0,0;58,2;CLI0314;SP
+747;19/07/2025;Mochila;Acessórios;5;168,38;0,0;841,9;CLI0282;RS
+212;19/08/2025;Jaqueta;Vestuário;3;285,1;0,0;855,3;CLI0078;MG
+402;19/08/2025;Luminária de mesa;Casa;1;103,46;0,0;103,46;CLI0033;SP
+414;19/09/2025;Mouse sem fio;Eletrônicos;2;82,63;0,05;157,0;CLI0278;PE
+690;19/09/2025;Jogo de panelas;Casa;2;324,42;0,1;583,96;CLI0336;RJ
+720;19/09/2025;Garrafa térmica;Casa;3;74,52;0,0;223,56;CLI0238;PR
+401;19/11/2025;Teclado mecânico;Eletrônicos;1;244,53;0,0;244,53;CLI0102;RS
+418;19/12/2025;Cadeira de escritório;Móveis;3;790,32;0,0;2370,96;CLI0106;PR
+574;19/12/2025;Jaqueta;Vestuário;2;271,08;0,0;542,16;CLI0057;SP
+751;19/12/2025;Luminária de mesa;Casa;1;113,57;0,0;113,57;CLI0317;MG
+633;20/01/2025;Mouse sem fio;Eletrônicos;1;81,72;0,0;81,72;CLI0117;SP
+855;20/01/2025;Tênis casual;Vestuário;1;209,24;0,05;198,78;CLI0257;BA
+144;20/02/2025;Tênis casual;Vestuário;2;229,84;0,0;459,68;CLI0015;SC
+233;20/02/2025;Camiseta;Vestuário;2;58,72;0,0;117,44;CLI0242;SP
+271;20/03/2025;Teclado mecânico;Eletrônicos;2;246,35;0,05;468,06;CLI0289;BA
+375;20/03/2025;Mesa para escritório;Móveis;2;660,44;0,1;1188,79;CLI0055;RJ
+856;20/03/2025;Monitor 24 polegadas;Eletrônicos;1;888,23;0,15;755,0;CLI0168;RJ
+259;20/04/2025;Luminária de mesa;Casa;1;115,5;0,05;109,72;CLI0038;SP
+730;20/05/2025;Jogo de panelas;Casa;1;338,03;0,1;304,23;CLI0306;SP
+862;20/05/2025;Teclado mecânico;Eletrônicos;1;228,9;0,2;183,12;CLI0053;PR
+928;20/06/2025;Mochila;Acessórios;1;151,46;0,2;121,17;CLI0188;SC
+219;20/07/2025;Teclado mecânico;Eletrônicos;2;252,61;0,0;505,22;CLI0169;RJ
+405;20/07/2025;Luminária de mesa;Casa;1;108,05;0,05;102,65;CLI0345;SP
+744;20/07/2025;Mouse sem fio;Eletrônicos;2;81,75;0,15;138,97;CLI0196;SP
+866;20/07/2025;Teclado mecânico;Eletrônicos;2;251,27;0,05;477,41;CLI0229;SC
+260;20/08/2025;Teclado mecânico;Eletrônicos;4;238,42;0,0;953,68;CLI0164;SC
+476;20/08/2025;Jogo de panelas;Casa;2;310,39;0,05;589,74;CLI0072;BA
+605;20/08/2025;Tênis casual;Vestuário;1;217,7;0,1;195,93;CLI0154;RS
+475;20/09/2025;Notebook;Eletrônicos;2;3107,9;0,2;4972,64;CLI0208;SP
+460;20/10/2025;Cadeira de escritório;Móveis;1;796,22;0,0;796,22;CLI0265;SP
+527;20/10/2025;Luminária de mesa;Casa;1;105,67;0,0;105,67;CLI0349;PR
+722;20/10/2025;Mesa para escritório;Móveis;3;616,56;0,0;1849,68;CLI0163;SP
+786;20/10/2025;Carteira;Acessórios;1;64,21;0,0;64,21;CLI0067;MG
+721;20/11/2025;Teclado mecânico;Eletrônicos;3;244,05;0,15;622,33;CLI0314;MG
+943;20/11/2025;Luminária de mesa;Casa;1;105,48;0,15;89,66;CLI0004;SP
+51;20/12/2025;Jaqueta;Vestuário;1;264,41;0,0;264,41;CLI0221;PR
+150;20/12/2025;Fone Bluetooth;Eletrônicos;1;185,49;0,2;148,39;CLI0055;GO
+319;20/12/2025;Mouse sem fio;Eletrônicos;2;89,49;0,0;178,98;CLI0069;SP
+569;20/12/2025;Mouse sem fio;Eletrônicos;1;83,78;0,05;79,59;CLI0079;MG
+822;20/12/2025;Jogo de panelas;Casa;4;318,6;0,05;1210,68;CLI0257;SP
+621;21/01/2025;Teclado mecânico;Eletrônicos;4;242,79;0,1;874,04;CLI0339;PR
+9;21/02/2025;Mesa para escritório;Móveis;1;660,58;0,0;660,58;CLI0108;RJ
+335;21/02/2025;Luminária de mesa;Casa;1;111,29;0,1;100,16;CLI0023;SP
+439;21/02/2025;Teclado mecânico;Eletrônicos;3;242,58;0,0;727,74;CLI0162;PE
+488;21/02/2025;Monitor 24 polegadas;Eletrônicos;2;865,07;0,1;1557,13;CLI0029;ES
+5;21/03/2025;Monitor 24 polegadas;Eletrônicos;4;872,55;0,0;3490,2;CLI0177;SP
+777;21/03/2025;Teclado mecânico;Eletrônicos;1;251,22;0,0;251,22;CLI0154;SP
+172;21/04/2025;Camiseta;Vestuário;3;58,67;0,0;176,01;CLI0002;GO
+182;21/04/2025;Mesa para escritório;Móveis;1;628,82;0,0;628,82;CLI0213;MG
+474;21/04/2025;Camiseta;Vestuário;3;57,37;0,1;154,9;CLI0203;PE
+339;21/05/2025;Notebook;Eletrônicos;2;3235,2;0,1;5823,36;CLI0348;SP
+810;21/05/2025;Teclado mecânico;Eletrônicos;3;228,68;0,0;686,04;CLI0314;RS
+78;21/06/2025;Cadeira de escritório;Móveis;4;740,74;0,0;2962,96;CLI0079;RJ
+465;21/06/2025;Notebook;Eletrônicos;3;3152,49;0,1;8511,72;CLI0106;RJ
+849;21/06/2025;Garrafa térmica;Casa;3;74,23;0,1;200,42;CLI0154;BA
+423;21/07/2025;Garrafa térmica;Casa;1;76,19;0,05;72,38;CLI0039;RJ
+470;21/07/2025;Carteira;Acessórios;3;63,64;0,05;181,37;CLI0104;SP
+641;21/07/2025;Jogo de panelas;Casa;2;304,07;0,0;608,14;CLI0177;RS
+708;21/07/2025;Camiseta;Vestuário;2;57,56;0,2;92,1;CLI0236;SC
+801;21/07/2025;Carteira;Acessórios;1;63,8;0,0;63,8;CLI0121;PR
+325;21/08/2025;Teclado mecânico;Eletrônicos;2;238,76;0,0;477,52;CLI0158;MG
+425;21/08/2025;Garrafa térmica;Casa;1;70,52;0,1;63,47;CLI0235;RS
+694;21/08/2025;Jaqueta;Vestuário;1;263,36;0,0;263,36;CLI0287;MG
+758;21/08/2025;Notebook;Eletrônicos;3;3202,29;0,1;8646,18;CLI0318;GO
+956;21/08/2025;Teclado mecânico;Eletrônicos;1;229,53;0,1;206,58;CLI0139;SC
+246;21/09/2025;Mesa para escritório;Móveis;5;653,36;0,0;3266,8;CLI0098;RS
+575;21/10/2025;Mochila;Acessórios;2;168,63;0,1;303,53;CLI0052;SP
+666;21/10/2025;Luminária de mesa;Casa;1;111,71;0,0;111,71;CLI0029;PR
+836;21/10/2025;Tênis casual;Vestuário;2;232,31;0,1;418,16;CLI0019;RJ
+864;21/10/2025;Monitor 24 polegadas;Eletrônicos;1;869,86;0,15;739,38;CLI0026;PR
+962;21/10/2025;Jaqueta;Vestuário;1;296,13;0,0;296,13;CLI0259;MG
+424;21/11/2025;Tênis casual;Vestuário;3;209,26;0,05;596,39;CLI0189;SP
+919;21/12/2025;Jaqueta;Vestuário;2;289,08;0,0;578,16;CLI0142;BA
+945;21/12/2025;Teclado mecânico;Eletrônicos;1;244,03;0,05;231,83;CLI0090;RJ
+272;22/01/2025;Camiseta;Vestuário;3;56,89;0,15;145,07;CLI0136;RS
+415;22/01/2025;Tênis casual;Vestuário;2;221,22;0,2;353,95;CLI0335;SP
+39;22/03/2025;Notebook;Eletrônicos;5;3038,76;0,0;15193,8;CLI0346;PR
+115;22/03/2025;Notebook;Eletrônicos;1;3272,72;0,05;3109,08;CLI0148;SP
+149;22/03/2025;Mouse sem fio;Eletrônicos;1;83,42;0,05;79,25;CLI0218;SC
+194;22/03/2025;Tênis casual;Vestuário;2;224,59;0,0;449,18;CLI0249;SC
+771;22/03/2025;Jogo de panelas;Casa;5;317,81;0,0;1589,05;CLI0167;RJ
+90;22/04/2025;Garrafa térmica;Casa;2;77,4;0,0;154,8;CLI0059;PR
+701;22/04/2025;Jaqueta;Vestuário;2;269,34;0,1;484,81;CLI0098;ES
+749;22/04/2025;Mouse sem fio;Eletrônicos;1;84,33;0,0;84,33;CLI0300;BA
+106;22/05/2025;Carteira;Acessórios;2;67,03;0,05;127,36;CLI0100;PE
+173;22/05/2025;Camiseta;Vestuário;5;63,4;0,05;301,15;CLI0057;BA
+152;22/07/2025;Fone Bluetooth;Eletrônicos;1;198,32;0,1;178,49;CLI0311;PE
+232;22/07/2025;Jogo de panelas;Casa;1;315,63;0,0;315,63;CLI0164;SP
+432;22/07/2025;Mochila;Acessórios;1;163,83;0,0;163,83;CLI0049;SC
+358;22/08/2025;Cadeira de escritório;Móveis;1;792,89;0,15;673,96;CLI0338;ES
+731;22/08/2025;Mochila;Acessórios;2;167,24;0,0;334,48;CLI0274;SC
+819;22/08/2025;Camiseta;Vestuário;3;62,62;0,0;187,86;CLI0021;MG
+400;22/09/2025;Teclado mecânico;Eletrônicos;2;235,13;0,0;470,26;CLI0208;MG
+453;22/09/2025;Tênis casual;Vestuário;3;213,64;0,0;640,92;CLI0138;RS
+520;22/09/2025;Tênis casual;Vestuário;2;232,74;0,0;465,48;CLI0230;ES
+715;22/09/2025;Jogo de panelas;Casa;2;330,96;0,0;661,92;CLI0291;PR
+238;22/10/2025;Monitor 24 polegadas;Eletrônicos;2;867,71;0,0;1735,42;CLI0293;RJ
+696;22/10/2025;Fone Bluetooth;Eletrônicos;2;200,63;0,05;381,2;CLI0174;RS
+719;22/10/2025;Mochila;Acessórios;2;153,75;0,1;276,75;CLI0345;RJ
+241;22/11/2025;Mesa para escritório;Móveis;5;630,78;0,0;3153,9;CLI0177;BA
+426;22/11/2025;Mochila;Acessórios;2;166,72;0,1;300,1;CLI0220;RJ
+880;22/11/2025;Tênis casual;Vestuário;1;210,67;0,0;210,67;CLI0200;MG
+125;22/12/2025;Garrafa térmica;Casa;1;79,01;0,1;71,11;CLI0233;PR
+190;22/12/2025;Fone Bluetooth;Eletrônicos;1;184,83;0,1;166,35;CLI0180;ES
+385;22/12/2025;Monitor 24 polegadas;Eletrônicos;1;855,57;0,0;855,57;CLI0325;RJ
+528;22/12/2025;Mesa para escritório;Móveis;1;680,39;0,0;680,39;CLI0244;SP
+738;22/12/2025;Mochila;Acessórios;1;162,85;0,05;154,71;CLI0097;SP
+795;22/12/2025;Carteira;Acessórios;2;64,04;0,15;108,87;CLI0131;MG
+177;23/01/2025;Carteira;Acessórios;3;67,86;0,05;193,4;CLI0016;MG
+243;23/01/2025;Cadeira de escritório;Móveis;2;809,34;0,0;1618,68;CLI0238;RS
+859;23/01/2025;Mochila;Acessórios;3;167,14;0,0;501,42;CLI0053;GO
+501;23/02/2025;Jaqueta;Vestuário;2;274,33;0,0;548,66;CLI0164;RJ
+582;23/02/2025;Mesa para escritório;Móveis;4;648,65;0,05;2464,87;CLI0313;MG
+603;23/02/2025;Mesa para escritório;Móveis;2;658,28;0,0;1316,56;CLI0215;GO
+914;23/02/2025;Mochila;Acessórios;1;154,61;0,0;154,61;CLI0013;SP
+76;23/03/2025;Carteira;Acessórios;3;64,61;0,1;174,45;CLI0142;BA
+215;23/03/2025;Cadeira de escritório;Móveis;1;759,68;0,0;759,68;CLI0307;RJ
+254;23/03/2025;Notebook;Eletrônicos;1;3241,31;0,1;2917,18;CLI0035;SP
+559;23/03/2025;Garrafa térmica;Casa;3;77,52;0,0;232,56;CLI0220;MG
+154;23/04/2025;Mochila;Acessórios;1;155,21;0,1;139,69;CLI0349;RS
+489;23/04/2025;Luminária de mesa;Casa;3;113,93;0,0;341,79;CLI0089;BA
+623;23/04/2025;Teclado mecânico;Eletrônicos;2;248,24;0,0;496,48;CLI0207;PR
+993;23/04/2025;Garrafa térmica;Casa;1;73,44;0,05;69,77;CLI0270;SP
+4;23/05/2025;Tênis casual;Vestuário;3;226,83;0,0;680,49;CLI0143;MG
+98;23/05/2025;Jaqueta;Vestuário;1;288,42;0,05;274,0;CLI0173;SC
+141;23/06/2025;Luminária de mesa;Casa;2;111,98;0,15;190,37;CLI0274;GO
+752;23/06/2025;Jaqueta;Vestuário;5;288,72;0,0;1443,6;CLI0079;RJ
+92;23/07/2025;Carteira;Acessórios;1;65,72;0,1;59,15;CLI0155;SP
+160;23/07/2025;Camiseta;Vestuário;3;58,94;0,1;159,14;CLI0275;SP
+514;23/07/2025;Garrafa térmica;Casa;2;76,45;0,0;152,9;CLI0095;PR
+237;23/08/2025;Mouse sem fio;Eletrônicos;1;89,13;0,05;84,67;CLI0264;SP
+468;23/08/2025;Carteira;Acessórios;1;61,85;0,0;61,85;CLI0039;BA
+697;23/08/2025;Mochila;Acessórios;1;161,67;0,0;161,67;CLI0035;SP
+958;23/08/2025;Mesa para escritório;Móveis;1;637,8;0,15;542,13;CLI0327;PR
+269;23/09/2025;Jaqueta;Vestuário;1;265,85;0,0;265,85;CLI0141;ES
+442;23/09/2025;Luminária de mesa;Casa;2;113,27;0,0;226,54;CLI0123;SP
+403;23/10/2025;Mouse sem fio;Eletrônicos;3;85,38;0,0;256,14;CLI0059;SP
+910;23/11/2025;Cadeira de escritório;Móveis;4;773,62;0,15;2630,31;CLI0172;GO
+916;23/11/2025;Mouse sem fio;Eletrônicos;2;81,12;0,15;137,9;CLI0337;SP
+234;23/12/2025;Camiseta;Vestuário;1;61,38;0,0;61,38;CLI0041;SP
+244;23/12/2025;Garrafa térmica;Casa;2;77,8;0,0;155,6;CLI0235;RS
+348;23/12/2025;Luminária de mesa;Casa;2;108,64;0,0;217,28;CLI0145;RJ
+530;23/12/2025;Mochila;Acessórios;1;167,08;0,0;167,08;CLI0227;PE
+685;23/12/2025;Mochila;Acessórios;2;153,49;0,2;245,58;CLI0047;SP
+743;23/12/2025;Tênis casual;Vestuário;1;208,92;0,1;188,03;CLI0137;SP
+890;23/12/2025;Luminária de mesa;Casa;4;111,63;0,05;424,19;CLI0231;MG
+942;23/12/2025;Cadeira de escritório;Móveis;2;774,26;0,15;1316,24;CLI0052;SP
+145;24/01/2025;Cadeira de escritório;Móveis;3;760,66;0,0;2281,98;CLI0272;SP
+461;24/01/2025;Mesa para escritório;Móveis;1;647,28;0,0;647,28;CLI0168;BA
+937;24/01/2025;Monitor 24 polegadas;Eletrônicos;2;850,54;0,0;1701,08;CLI0158;SP
+941;24/01/2025;Luminária de mesa;Casa;1;104,23;0,0;104,23;CLI0087;RS
+95;24/02/2025;Mesa para escritório;Móveis;5;660,58;0,1;2972,61;CLI0223;SC
+361;24/02/2025;Jaqueta;Vestuário;1;268,2;0,0;268,2;CLI0182;MG
+394;24/02/2025;Notebook;Eletrônicos;1;3093,25;0,1;2783,93;CLI0295;PR
+598;24/02/2025;Fone Bluetooth;Eletrônicos;2;182,88;0,15;310,9;CLI0235;RJ
+680;24/02/2025;Teclado mecânico;Eletrônicos;1;242,46;0,0;242,46;CLI0290;MG
+931;24/02/2025;Mochila;Acessórios;2;159,74;0,15;271,56;CLI0098;MG
+966;24/03/2025;Carteira;Acessórios;1;65,55;0,05;62,27;CLI0238;PE
+986;24/03/2025;Monitor 24 polegadas;Eletrônicos;1;942,73;0,05;895,59;CLI0190;MG
+57;24/04/2025;Monitor 24 polegadas;Eletrônicos;3;885,76;0,0;2657,28;CLI0117;BA
+395;24/04/2025;Garrafa térmica;Casa;1;74,67;0,1;67,2;CLI0078;SC
+596;24/04/2025;Notebook;Eletrônicos;1;3326,68;0,2;2661,34;CLI0268;SP
+648;24/04/2025;Carteira;Acessórios;2;64,5;0,1;116,1;CLI0170;SP
+994;24/04/2025;Tênis casual;Vestuário;4;214,14;0,0;856,56;CLI0229;MG
+100;24/05/2025;Jaqueta;Vestuário;2;292,77;0,05;556,26;CLI0098;MG
+482;24/05/2025;Garrafa térmica;Casa;3;70,81;0,05;201,81;CLI0152;SP
+134;24/06/2025;Jaqueta;Vestuário;3;272,18;0,0;816,54;CLI0301;RS
+222;24/06/2025;Tênis casual;Vestuário;2;212,78;0,0;425,56;CLI0052;SP
+276;24/06/2025;Luminária de mesa;Casa;1;114,77;0,0;114,77;CLI0177;PE
+26;24/07/2025;Mochila;Acessórios;2;158,81;0,05;301,74;CLI0116;SP
+277;24/07/2025;Teclado mecânico;Eletrônicos;3;240,43;0,0;721,29;CLI0063;SP
+148;24/08/2025;Fone Bluetooth;Eletrônicos;2;199,1;0,05;378,29;CLI0280;SP
+202;24/08/2025;Camiseta;Vestuário;2;58,91;0,0;117,82;CLI0224;SP
+333;24/08/2025;Cadeira de escritório;Móveis;1;750,84;0,15;638,21;CLI0017;RS
+77;24/09/2025;Garrafa térmica;Casa;2;72,97;0,0;145,94;CLI0140;SP
+380;24/09/2025;Teclado mecânico;Eletrônicos;2;230,48;0,0;460,96;CLI0075;SP
+748;24/09/2025;Mouse sem fio;Eletrônicos;1;86,41;0,0;86,41;CLI0342;GO
+804;24/09/2025;Mochila;Acessórios;2;162,41;0,0;324,82;CLI0079;SP
+860;24/09/2025;Tênis casual;Vestuário;2;215,05;0,05;408,6;CLI0108;RJ
+981;24/09/2025;Mochila;Acessórios;1;161,51;0,1;145,36;CLI0249;BA
+135;24/10/2025;Mochila;Acessórios;2;153,25;0,05;291,18;CLI0283;RJ
+156;24/10/2025;Cadeira de escritório;Móveis;2;741,64;0,0;1483,28;CLI0090;RS
+652;24/10/2025;Mesa para escritório;Móveis;3;627,6;0,0;1882,8;CLI0277;SP
+1;24/11/2025;Mouse sem fio;Eletrônicos;1;82,71;0,0;82,71;CLI0347;RS
+253;24/11/2025;Tênis casual;Vestuário;4;208,78;0,05;793,36;CLI0348;RJ
+267;24/11/2025;Luminária de mesa;Casa;1;116,15;0,0;116,15;CLI0029;ES
+545;24/11/2025;Cadeira de escritório;Móveis;3;757,64;0,1;2045,63;CLI0153;GO
+129;24/12/2025;Garrafa térmica;Casa;1;79,26;0,05;75,3;CLI0082;SP
+282;25/01/2025;Notebook;Eletrônicos;1;3237,45;0,1;2913,7;CLI0147;SC
+615;25/01/2025;Jaqueta;Vestuário;1;277,2;0,1;249,48;CLI0283;SC
+716;25/01/2025;Mesa para escritório;Móveis;1;623,74;0,0;623,74;CLI0323;SP
+922;25/02/2025;Teclado mecânico;Eletrônicos;2;238,02;0,05;452,24;CLI0227;SP
+978;25/02/2025;Teclado mecânico;Eletrônicos;1;245,68;0,05;233,4;CLI0267;GO
+91;25/03/2025;Fone Bluetooth;Eletrônicos;1;179,19;0,0;179,19;CLI0193;SC
+999;25/03/2025;Tênis casual;Vestuário;2;230,5;0,1;414,9;CLI0301;RJ
+58;25/04/2025;Notebook;Eletrônicos;2;3161,01;0,0;6322,02;CLI0143;SP
+88;25/04/2025;Mochila;Acessórios;1;168,78;0,0;168,78;CLI0127;SP
+498;25/04/2025;Mochila;Acessórios;2;153,77;0,0;307,54;CLI0066;SC
+566;25/04/2025;Carteira;Acessórios;5;62,75;0,0;313,75;CLI0064;MG
+586;25/04/2025;Mochila;Acessórios;3;160,37;0,1;433,0;CLI0222;PR
+590;25/04/2025;Jogo de panelas;Casa;2;316,29;0,0;632,58;CLI0294;MG
+628;25/05/2025;Notebook;Eletrônicos;4;3323,69;0,0;13294,76;CLI0229;BA
+741;25/05/2025;Fone Bluetooth;Eletrônicos;1;188,6;0,0;188,6;CLI0008;SP
+48;25/06/2025;Monitor 24 polegadas;Eletrônicos;2;927,69;0,05;1762,61;CLI0027;SP
+298;25/06/2025;Jogo de panelas;Casa;1;330,44;0,1;297,4;CLI0136;SC
+580;25/06/2025;Teclado mecânico;Eletrônicos;1;237,13;0,05;225,27;CLI0245;BA
+711;25/06/2025;Cadeira de escritório;Móveis;1;772,88;0,0;772,88;CLI0187;RS
+13;25/07/2025;Fone Bluetooth;Eletrônicos;1;199,42;0,05;189,45;CLI0109;RS
+336;25/07/2025;Garrafa térmica;Casa;1;72,46;0,15;61,59;CLI0258;SP
+712;25/07/2025;Fone Bluetooth;Eletrônicos;1;191,63;0,2;153,3;CLI0052;SC
+940;25/07/2025;Cadeira de escritório;Móveis;1;797,23;0,05;757,37;CLI0110;RJ
+131;25/08/2025;Mouse sem fio;Eletrônicos;2;81,47;0,15;138,5;CLI0140;SP
+644;25/08/2025;Mochila;Acessórios;2;155,98;0,0;311,96;CLI0298;SP
+573;25/09/2025;Monitor 24 polegadas;Eletrônicos;1;880,36;0,0;880,36;CLI0107;PR
+806;25/10/2025;Jogo de panelas;Casa;2;308,57;0,0;617,14;CLI0269;SC
+19;25/11/2025;Cadeira de escritório;Móveis;1;773,89;0,05;735,2;CLI0135;ES
+266;25/11/2025;Mouse sem fio;Eletrônicos;1;86,84;0,0;86,84;CLI0283;GO
+761;25/11/2025;Cadeira de escritório;Móveis;1;782,17;0,0;782,17;CLI0067;BA
+780;25/11/2025;Fone Bluetooth;Eletrônicos;1;197,03;0,0;197,03;CLI0172;BA
+524;25/12/2025;Luminária de mesa;Casa;2;113,72;0,0;227,44;CLI0291;SP
+636;25/12/2025;Camiseta;Vestuário;1;62,98;0,0;62,98;CLI0155;BA
+684;25/12/2025;Teclado mecânico;Eletrônicos;1;240,24;0,1;216,22;CLI0315;BA
+903;25/12/2025;Monitor 24 polegadas;Eletrônicos;2;921,97;0,15;1567,35;CLI0044;RJ
+925;25/12/2025;Cadeira de escritório;Móveis;4;786,99;0,05;2990,56;CLI0252;ES
+784;26/01/2025;Mochila;Acessórios;2;157,94;0,0;315,88;CLI0259;PR
+835;26/01/2025;Mouse sem fio;Eletrônicos;1;81,72;0,1;73,55;CLI0305;PR
+236;26/02/2025;Tênis casual;Vestuário;1;214,75;0,0;214,75;CLI0319;RJ
+885;26/02/2025;Camiseta;Vestuário;1;56,53;0,0;56,53;CLI0321;PR
+954;26/02/2025;Cadeira de escritório;Móveis;1;755,39;0,0;755,39;CLI0113;SP
+158;26/03/2025;Fone Bluetooth;Eletrônicos;4;200,13;0,2;640,42;CLI0174;SP
+509;26/03/2025;Luminária de mesa;Casa;3;105,47;0,0;316,41;CLI0098;SP
+589;26/03/2025;Mouse sem fio;Eletrônicos;3;83,17;0,0;249,51;CLI0260;SP
+305;26/04/2025;Mochila;Acessórios;1;152,32;0,0;152,32;CLI0349;MG
+516;26/04/2025;Camiseta;Vestuário;1;56,75;0,1;51,08;CLI0044;SC
+617;26/04/2025;Jaqueta;Vestuário;2;287,04;0,0;574,08;CLI0309;PR
+974;26/04/2025;Cadeira de escritório;Móveis;1;758,22;0,1;682,4;CLI0033;SP
+196;26/05/2025;Mochila;Acessórios;2;159,74;0,1;287,53;CLI0203;SP
+217;26/05/2025;Fone Bluetooth;Eletrônicos;2;193,57;0,15;329,07;CLI0171;GO
+441;26/05/2025;Tênis casual;Vestuário;4;207,51;0,1;747,04;CLI0106;GO
+538;26/05/2025;Notebook;Eletrônicos;1;3070,56;0,05;2917,03;CLI0114;PE
+327;26/06/2025;Carteira;Acessórios;1;68,85;0,15;58,52;CLI0242;SP
+396;26/06/2025;Notebook;Eletrônicos;2;3121,45;0,15;5306,46;CLI0073;SP
+718;26/06/2025;Notebook;Eletrônicos;1;3142,82;0,1;2828,54;CLI0296;PR
+734;26/06/2025;Fone Bluetooth;Eletrônicos;1;178,79;0,15;151,97;CLI0245;ES
+547;26/07/2025;Mochila;Acessórios;1;153,09;0,0;153,09;CLI0152;MG
+560;26/07/2025;Mesa para escritório;Móveis;5;640,9;0,0;3204,5;CLI0192;SP
+312;26/09/2025;Garrafa térmica;Casa;3;71,71;0,05;204,37;CLI0058;SP
+356;26/09/2025;Notebook;Eletrônicos;3;3036,54;0,1;8198,66;CLI0004;SP
+783;26/09/2025;Notebook;Eletrônicos;1;3224,93;0,0;3224,93;CLI0079;SC
+788;26/09/2025;Monitor 24 polegadas;Eletrônicos;1;865,04;0,0;865,04;CLI0295;SC
+883;26/10/2025;Notebook;Eletrônicos;2;3204,0;0,1;5767,2;CLI0032;GO
+208;26/11/2025;Mochila;Acessórios;5;156,61;0,2;626,44;CLI0226;RJ
+606;26/12/2025;Jogo de panelas;Casa;3;328,14;0,15;836,76;CLI0103;SC
+753;26/12/2025;Jogo de panelas;Casa;3;305,63;0,0;916,89;CLI0331;PE
+216;27/01/2025;Tênis casual;Vestuário;2;215,63;0,0;431,26;CLI0198;PR
+229;27/01/2025;Mochila;Acessórios;2;157,53;0,15;267,8;CLI0265;RS
+345;27/01/2025;Fone Bluetooth;Eletrônicos;1;192,39;0,0;192,39;CLI0301;SP
+971;27/01/2025;Mouse sem fio;Eletrônicos;1;84,65;0,0;84,65;CLI0332;RJ
+823;27/02/2025;Teclado mecânico;Eletrônicos;3;252,61;0,1;682,05;CLI0212;SP
+35;27/03/2025;Mesa para escritório;Móveis;2;627,67;0,0;1255,34;CLI0195;SP
+412;27/03/2025;Mouse sem fio;Eletrônicos;2;88,02;0,0;176,04;CLI0116;SP
+456;27/03/2025;Cadeira de escritório;Móveis;1;805,58;0,15;684,74;CLI0060;SC
+502;27/03/2025;Mochila;Acessórios;3;152,1;0,1;410,67;CLI0172;SC
+630;27/03/2025;Tênis casual;Vestuário;2;206,99;0,0;413,98;CLI0110;SC
+667;27/03/2025;Fone Bluetooth;Eletrônicos;4;190,38;0,0;761,52;CLI0327;PE
+293;27/04/2025;Carteira;Acessórios;1;64,85;0,05;61,61;CLI0195;RS
+457;27/04/2025;Carteira;Acessórios;2;61,44;0,15;104,45;CLI0242;SP
+247;27/05/2025;Cadeira de escritório;Móveis;3;737,67;0,1;1991,71;CLI0189;SP
+526;27/05/2025;Camiseta;Vestuário;2;58,78;0,0;117,56;CLI0249;RJ
+610;27/05/2025;Jaqueta;Vestuário;3;290,36;0,05;827,53;CLI0075;SP
+985;27/05/2025;Teclado mecânico;Eletrônicos;5;249,77;0,1;1123,97;CLI0079;SC
+371;27/06/2025;Notebook;Eletrônicos;1;3097,14;0,0;3097,14;CLI0315;PR
+754;27/06/2025;Tênis casual;Vestuário;4;226,16;0,0;904,64;CLI0069;RJ
+97;27/08/2025;Mesa para escritório;Móveis;3;657,21;0,0;1971,63;CLI0045;SP
+350;27/08/2025;Mouse sem fio;Eletrônicos;3;87,27;0,1;235,63;CLI0105;RJ
+322;27/09/2025;Garrafa térmica;Casa;2;73,76;0,15;125,39;CLI0281;SP
+493;27/09/2025;Garrafa térmica;Casa;1;78,76;0,0;78,76;CLI0091;SP
+894;27/09/2025;Camiseta;Vestuário;5;61,9;0,05;294,02;CLI0313;SP
+180;27/10/2025;Jogo de panelas;Casa;2;315,43;0,05;599,32;CLI0259;SP
+543;27/10/2025;Mouse sem fio;Eletrônicos;1;90,09;0,2;72,07;CLI0288;BA
+214;27/11/2025;Teclado mecânico;Eletrônicos;1;245,98;0,2;196,78;CLI0313;MG
+221;27/11/2025;Mochila;Acessórios;1;157,35;0,0;157,35;CLI0110;SP
+8;27/12/2025;Mouse sem fio;Eletrônicos;1;82,22;0,0;82,22;CLI0120;SP
+199;27/12/2025;Monitor 24 polegadas;Eletrônicos;2;925,6;0,1;1666,08;CLI0022;SP
+420;27/12/2025;Fone Bluetooth;Eletrônicos;1;184,7;0,15;156,99;CLI0348;PE
+491;27/12/2025;Carteira;Acessórios;1;65,53;0,0;65,53;CLI0253;ES
+659;27/12/2025;Jogo de panelas;Casa;2;311,3;0,1;560,34;CLI0292;PR
+108;28/01/2025;Jogo de panelas;Casa;1;337,05;0,05;320,2;CLI0053;RS
+410;28/01/2025;Camiseta;Vestuário;1;56,37;0,0;56,37;CLI0288;BA
+611;28/01/2025;Mochila;Acessórios;1;155,53;0,1;139,98;CLI0350;PE
+616;28/01/2025;Notebook;Eletrônicos;2;3085,99;0,15;5246,18;CLI0227;GO
+906;28/01/2025;Mochila;Acessórios;1;166,13;0,0;166,13;CLI0244;MG
+159;28/02/2025;Garrafa térmica;Casa;5;71,77;0,2;287,08;CLI0346;GO
+387;28/02/2025;Jaqueta;Vestuário;2;283,1;0,05;537,89;CLI0282;SC
+204;28/03/2025;Mouse sem fio;Eletrônicos;2;81,06;0,05;154,01;CLI0179;GO
+663;28/04/2025;Mouse sem fio;Eletrônicos;2;82,76;0,0;165,52;CLI0309;SP
+728;28/04/2025;Monitor 24 polegadas;Eletrônicos;2;883,93;0,0;1767,86;CLI0088;MG
+119;28/05/2025;Garrafa térmica;Casa;1;76,7;0,1;69,03;CLI0257;ES
+300;28/05/2025;Carteira;Acessórios;1;66,6;0,0;66,6;CLI0141;RJ
+301;28/05/2025;Mouse sem fio;Eletrônicos;2;85,44;0,15;145,25;CLI0177;RJ
+397;28/06/2025;Fone Bluetooth;Eletrônicos;1;196,48;0,05;186,66;CLI0050;RJ
+542;28/06/2025;Garrafa térmica;Casa;1;74,7;0,1;67,23;CLI0204;BA
+781;28/06/2025;Jaqueta;Vestuário;3;277,2;0,15;706,86;CLI0117;GO
+472;28/07/2025;Mouse sem fio;Eletrônicos;2;89,74;0,0;179,48;CLI0136;RJ
+84;28/08/2025;Jaqueta;Vestuário;1;284,11;0,0;284,11;CLI0289;RJ
+264;28/08/2025;Tênis casual;Vestuário;5;210,23;0,15;893,48;CLI0204;SP
+765;28/08/2025;Tênis casual;Vestuário;2;216,33;0,1;389,39;CLI0189;GO
+918;28/08/2025;Mochila;Acessórios;4;162,66;0,15;553,04;CLI0219;SP
+366;28/09/2025;Jaqueta;Vestuário;1;270,3;0,15;229,75;CLI0244;GO
+840;28/09/2025;Mouse sem fio;Eletrônicos;2;86,92;0,15;147,76;CLI0148;PE
+537;28/10/2025;Jogo de panelas;Casa;1;307,08;0,15;261,02;CLI0047;RS
+692;28/10/2025;Monitor 24 polegadas;Eletrônicos;2;915,3;0,0;1830,6;CLI0146;SP
+724;28/10/2025;Jogo de panelas;Casa;5;316,7;0,0;1583,5;CLI0121;SP
+539;28/11/2025;Monitor 24 polegadas;Eletrônicos;2;865,34;0,0;1730,68;CLI0350;SP
+544;28/11/2025;Luminária de mesa;Casa;2;107,34;0,0;214,68;CLI0142;SP
+614;28/11/2025;Jogo de panelas;Casa;1;320,42;0,1;288,38;CLI0341;SC
+632;28/11/2025;Camiseta;Vestuário;4;61,67;0,0;246,68;CLI0170;MG
+917;28/11/2025;Luminária de mesa;Casa;3;105,84;0,0;317,52;CLI0151;SP
+79;28/12/2025;Monitor 24 polegadas;Eletrônicos;1;880,13;0,05;836,12;CLI0106;RJ
+116;28/12/2025;Fone Bluetooth;Eletrônicos;2;188,95;0,1;340,11;CLI0321;ES
+406;28/12/2025;Tênis casual;Vestuário;1;223,02;0,0;223,02;CLI0061;SP
+683;28/12/2025;Mesa para escritório;Móveis;2;677,69;0,1;1219,84;CLI0229;RS
+853;28/12/2025;Camiseta;Vestuário;1;56,53;0,0;56,53;CLI0122;MG
+796;29/03/2025;Notebook;Eletrônicos;1;3311,05;0,05;3145,5;CLI0336;SP
+198;29/05/2025;Cadeira de escritório;Móveis;1;779,76;0,0;779,76;CLI0273;SP
+337;29/05/2025;Monitor 24 polegadas;Eletrônicos;3;914,73;0,0;2744,19;CLI0345;PR
+898;29/05/2025;Teclado mecânico;Eletrônicos;1;252,18;0,1;226,96;CLI0289;RS
+59;29/06/2025;Mochila;Acessórios;2;163,45;0,1;294,21;CLI0015;RJ
+188;29/06/2025;Camiseta;Vestuário;2;57,13;0,0;114,26;CLI0220;SP
+205;29/06/2025;Carteira;Acessórios;4;66,13;0,0;264,52;CLI0132;SP
+252;29/06/2025;Garrafa térmica;Casa;1;78,33;0,0;78,33;CLI0141;PE
+872;29/06/2025;Garrafa térmica;Casa;1;72,04;0,1;64,84;CLI0066;PR
+164;29/07/2025;Mouse sem fio;Eletrônicos;1;89,55;0,0;89,55;CLI0050;MG
+389;29/07/2025;Mochila;Acessórios;2;162,56;0,0;325,12;CLI0217;SC
+510;29/07/2025;Carteira;Acessórios;2;68,32;0,05;129,81;CLI0153;SC
+814;29/07/2025;Tênis casual;Vestuário;5;231,23;0,2;924,92;CLI0344;SP
+124;29/08/2025;Cadeira de escritório;Móveis;1;763,25;0,0;763,25;CLI0211;SP
+554;29/08/2025;Notebook;Eletrônicos;3;3232,09;0,15;8241,83;CLI0100;SP
+897;29/08/2025;Garrafa térmica;Casa;2;74,72;0,1;134,5;CLI0151;MG
+466;29/09/2025;Monitor 24 polegadas;Eletrônicos;1;939,25;0,2;751,4;CLI0144;SP
+117;29/10/2025;Mochila;Acessórios;3;154,2;0,0;462,6;CLI0077;SP
+203;29/10/2025;Mesa para escritório;Móveis;2;641,87;0,0;1283,74;CLI0171;RJ
+525;29/10/2025;Luminária de mesa;Casa;3;115,8;0,15;295,29;CLI0052;PR
+600;29/10/2025;Mouse sem fio;Eletrônicos;3;84,5;0,1;228,15;CLI0069;ES
+497;29/11/2025;Cadeira de escritório;Móveis;1;823,87;0,1;741,48;CLI0183;ES
+766;29/12/2025;Notebook;Eletrônicos;3;3110,07;0,0;9330,21;CLI0156;SP
+487;30/01/2025;Tênis casual;Vestuário;5;220,78;0,1;993,51;CLI0082;PE
+409;30/03/2025;Jogo de panelas;Casa;1;311,89;0,0;311,89;CLI0318;BA
+521;30/03/2025;Teclado mecânico;Eletrônicos;5;248,88;0,0;1244,4;CLI0350;MG
+534;30/03/2025;Monitor 24 polegadas;Eletrônicos;3;858,04;0,0;2574,12;CLI0026;SP
+779;30/03/2025;Garrafa térmica;Casa;3;76,71;0,05;218,62;CLI0305;GO
+843;30/04/2025;Carteira;Acessórios;1;62,61;0,0;62,61;CLI0061;MG
+936;30/04/2025;Jaqueta;Vestuário;1;287,91;0,05;273,51;CLI0317;SP
+187;30/06/2025;Mouse sem fio;Eletrônicos;2;82,07;0,1;147,73;CLI0056;SP
+699;30/06/2025;Jogo de panelas;Casa;2;327,71;0,0;655,42;CLI0205;SP
+146;30/07/2025;Luminária de mesa;Casa;2;105,78;0,0;211,56;CLI0196;PR
+296;30/08/2025;Camiseta;Vestuário;3;61,53;0,1;166,13;CLI0288;MG
+653;30/08/2025;Mochila;Acessórios;3;157,42;0,0;472,26;CLI0149;RS
+24;30/09/2025;Tênis casual;Vestuário;1;224,22;0,15;190,59;CLI0271;SP
+273;30/11/2025;Monitor 24 polegadas;Eletrônicos;3;881,09;0,05;2511,11;CLI0322;MG
+308;30/11/2025;Luminária de mesa;Casa;1;113,15;0,15;96,18;CLI0090;SP
+201;30/12/2025;Mochila;Acessórios;1;152,61;0,0;152,61;CLI0317;RJ
+28;31/01/2025;Monitor 24 polegadas;Eletrônicos;1;839,95;0,0;839,95;CLI0143;MG
+577;31/03/2025;Camiseta;Vestuário;1;58,39;0,1;52,55;CLI0060;RJ
+660;31/03/2025;Mesa para escritório;Móveis;2;639,49;0,1;1151,08;CLI0265;BA
+902;31/03/2025;Jaqueta;Vestuário;2;268,28;0,0;536,56;CLI0134;BA
+55;31/07/2025;Notebook;Eletrônicos;1;3363,0;0,1;3026,7;CLI0343;RJ
+357;31/07/2025;Teclado mecânico;Eletrônicos;3;232,27;0,1;627,13;CLI0259;SP
+733;31/07/2025;Fone Bluetooth;Eletrônicos;1;178,84;0,05;169,9;CLI0070;RS
+839;31/07/2025;Jogo de panelas;Casa;1;308,83;0,0;308,83;CLI0323;PR
+288;31/08/2025;Jogo de panelas;Casa;1;324,08;0,05;307,88;CLI0314;RJ
+638;31/08/2025;Teclado mecânico;Eletrônicos;2;229,53;0,0;459,06;CLI0280;BA
+714;31/08/2025;Tênis casual;Vestuário;1;217,93;0,0;217,93;CLI0323;GO
+848;31/08/2025;Tênis casual;Vestuário;1;210,38;0,0;210,38;CLI0275;MG
+908;31/08/2025;Fone Bluetooth;Eletrônicos;1;198,44;0,0;198,44;CLI0230;ES
+469;31/10/2025;Luminária de mesa;Casa;1;112,14;0,0;112,14;CLI0162;SP
+982;31/10/2025;Mochila;Acessórios;2;166,56;0,0;333,12;CLI0068;RJ
+102;31/12/2025;Garrafa térmica;Casa;1;70,66;0,0;70,66;CLI0125;RJ
+262;31/12/2025;Carteira;Acessórios;4;66,07;0,1;237,85;CLI0063;MG
+455;31/12/2025;Luminária de mesa;Casa;2;109,95;0,05;208,91;CLI0291;SP
+688;31/12/2025;Luminária de mesa;Casa;1;113,61;0,0;113,61;CLI0006;MG
+892;31/12/2025;Jogo de panelas;Casa;1;336,38;0,05;319,56;CLI0020;SP
